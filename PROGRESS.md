@@ -818,3 +818,25 @@ The `server/data/*.json` cache files (raw/cleaned/classified/clusters for both f
 ---
 
 **Phase 10 status: `[x]`** — production build verified locally (HTML + API + catch-all + static assets + 404 handling all working). Ready for Render manual configuration using the table above.
+
+### 2026-09-03 04:30 UTC — Render build fix: tsconfig moduleResolution + TypeScript version pin
+
+**Symptom**: Render deploy failed with `tsconfig.json(5,25): error TS5108: Option 'moduleResolution=node10' has been removed. Please remove it from your configuration.`
+
+**Root cause**: `server/tsconfig.json` had `"moduleResolution": "node"` (TS 5.5+ alias for `"node10"`). TS 5.5 deprecated it, TS 6.x removed it entirely. Render's `npm install` resolved a newer TS than the local dev lockfile pinned. ts-node-dev masked the issue in dev because it transpiles with `--transpile-only` (no module resolution checks).
+
+**Fix #1 — server/tsconfig.json**: Switched both `module` and `moduleResolution` to `node16` (the canonical CommonJS Node.js pairing in TS 5.5+). TS 5110 surfaced mid-fix — `"module"` and `"moduleResolution"` must match; can't keep `module: "commonjs"` with `moduleResolution: "node16"`. Verified safe: no `.js` extensions in any of the 24 server imports (extension-less works under CJS Node16), no `import.meta` usage, `pipeline/index.ts` barrel still resolves directory imports, no `package.json` `"type": "module"` leakage into server/.
+
+**Fix #2 — server/package.json**: `"typescript": "^5.4.5"` → `"typescript": "5.9.3"` (exact pin, no caret). Regenerated `package-lock.json` via `npm install` (3 transitive packages cleaned up, resolved version confirmed 5.9.3). Pinning prevents Render from drifting to a future TS major that might remove `"node16"` or add new strictness.
+
+**Why both**: Fix #1 fixes the immediate error but leaves the door open — a future TS version could deprecate/remove `"node16"` and we'd break again. Fix #2 alone wouldn't have helped today because the error was the config, not the version. Together: config + version are both locked to a known-working combination.
+
+**Verified**:
+- `npx tsc --noEmit` in `server/` → exit 0 ✓
+- `npx tsc -p tsconfig.json` in `server/` → exit 0 ✓ (this is exactly what Render's `npm run build` runs)
+- `npm run build` from project root → both server (`tsc -p tsconfig.json`) and client (`tsc -b && vite build`) clean ✓
+- `server/dist/index.js` and `client/dist/index.html` both present after build ✓
+
+**Cleanup**: Stopped stray `node` processes on ports 4000 (the user's dev server), 4500, and 4600 (both prod-mode test servers from earlier verification rounds). User will need to restart dev server in their terminal with `npm run dev` to resume local development.
+
+**Ready to re-deploy to Render**: same config as the previous PROGRESS.md entry (Build: `npm run build`, Start: `npm start`, env vars as listed). The fix is purely the tsconfig + version pin — no changes to routes, no changes to deployment config, no changes to .env.example.
