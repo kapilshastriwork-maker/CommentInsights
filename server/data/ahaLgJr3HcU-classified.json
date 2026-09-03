@@ -1,0 +1,2226 @@
+{
+  "videoId": "ahaLgJr3HcU",
+  "classifiedAt": "2026-09-02T18:03:49.291Z",
+  "classified": [
+    {
+      "id": "Ugw9-04CycliO1n6hi14AaABAg",
+      "text": "As a final year student this was much much needed; I will for sure follow this from scratch❤",
+      "intent": "praise",
+      "topic": "final year",
+      "subtopic": "needed content",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugwv5ItZJf3lNhMB1Rt4AaABAg",
+      "text": "Final Year walon ke liye aap bnarhe ho toh bhaiya kya aap regular basis pe video upload kroge? Kyunki final year pe hame already kaafi kam time rehta hai\nand Thanks for doing this at the exact time period!!",
+      "intent": "content_request",
+      "topic": "video schedule",
+      "subtopic": "regular uploads",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyRKwH-mucqjUEIfN14AaABAg",
+      "text": "Your DSA series is saving  so much time because everything is explained in such a clear and structured way.Thanks for putting so much effort to help students like us!",
+      "intent": "praise",
+      "topic": "dsa series",
+      "subtopic": "clear explanation",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwdNLrwFjy6OeZXk9N4AaABAg",
+      "text": "Indian youtube tech scene mai alag hi karr rahe ho bhaiyya, respect++",
+      "intent": "praise",
+      "topic": "tech scene",
+      "subtopic": "indian creators",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugwo9OI8Wt1PffT7zCl4AaABAg",
+      "text": "thanks bhaiya ....you are one of the most genuine creators out there......one of your oldest subscribers",
+      "intent": "praise",
+      "topic": "creator appreciation",
+      "subtopic": "genuine creator",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugywzm08-IvxpZi8hUl4AaABAg",
+      "text": "Thank You bhaiya , itna sare log baithe hei internet pe and u are the only one needed for students like us .Hats off ! jaldi dhalo hum start kardenge .",
+      "intent": "praise",
+      "topic": "student help",
+      "subtopic": "motivation",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyGDPzgVwuew9HsInx4AaABAg",
+      "text": "Thankyou bhaiya 🎉 hatsoff to your commitment and efforts for us",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "commitment",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugycl_11R2S4XZKad8t4AaABAg",
+      "text": "Really excited for this series",
+      "intent": "agree_validate",
+      "topic": "series excitement",
+      "subtopic": "anticipation",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwaicPtiQbcs5_t-kF4AaABAg",
+      "text": "Hello Bhaiya🙏 Please iss AI Course ke videos consistent banate rehena!! Hamari bohot help hogi!! Thank you 🙏",
+      "intent": "content_request",
+      "topic": "content schedule",
+      "subtopic": "consistent uploads",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugx6Z0ykxn3Uduhedsl4AaABAg",
+      "text": "is series ki sakt jarurat h, mca ka final year ausust se shuru hoga, aur august me hi company placement k liye aana shuru hoti h college me. aur ai se related role me hi jana chahta hu, \nthank you ye series lane k liye.",
+      "intent": "share_experience",
+      "topic": "career relevance",
+      "subtopic": "ai role",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwV7b6jwrC9U-eJV3F4AaABAg",
+      "text": "Really looking forward to this and the fact that you are giving it out for free.. salute to you",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "free content",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugyek9GHwAukba7HnRt4AaABAg",
+      "text": "Please bhaiya bring this series as soon as possible !",
+      "intent": "content_request",
+      "topic": "release request",
+      "subtopic": "speed up",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugw8nMfpVsqfARyJSrd4AaABAg",
+      "text": "Will follow this along 😊 so excited 🎉",
+      "intent": "agree_validate",
+      "topic": "series excitement",
+      "subtopic": "follow along",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwOGLQrFG9tM--ShlJ4AaABAg",
+      "text": "i hope we will learn everything that is industry relevant and I just can't wait to start the series",
+      "intent": "agree_validate",
+      "topic": "learning expectations",
+      "subtopic": "industry relevance",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzNY388zUdY791OeK94AaABAg",
+      "text": "Very much needed, bhaiya. I follow you very much.😊",
+      "intent": "praise",
+      "topic": "content relevance",
+      "subtopic": "very needed",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzyJ-TWpPYHjT5FJzF4AaABAg",
+      "text": "Thank you so much bhaiya ... aap jo itne mehnat se hum logo k leye content bana rahe ho...!   greatful to hava a teacher like you",
+      "intent": "praise",
+      "topic": "content appreciation",
+      "subtopic": "teacher gratitude",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzLGikLTWSGL_afbPN4AaABAg",
+      "text": "Excited for this bhaiyya surely  follow this along with your DSA series",
+      "intent": "agree_validate",
+      "topic": "series excitement",
+      "subtopic": "dsa series",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyxRsozDQ1wZ0YdFcZ4AaABAg",
+      "text": "Eagerly waiting bhaiya❤",
+      "intent": "agree_validate",
+      "topic": "content anticipation",
+      "subtopic": "eager waiting",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxlkNgmTNAaV8kv7H14AaABAg",
+      "text": "Thank you so much for this sir !! Your advices & tutorials are really good & really easy to learn & grasp concepts quickly !",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "tutorial quality",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxK_QmE9rPJWl5CdYZ4AaABAg",
+      "text": "Thank you very much bhaiya . Much needed course",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "course usefulness",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugys7AtRbv2d57sXJqV4AaABAg",
+      "text": "bhaiya..thanks a lot...for u first one who actually tell what type of Ai engineer actually is..<3 :)",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "career explanation",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzsSaLPdwx0UT4Om4R4AaABAg",
+      "text": "Really appreciate you putting this out for free! Could you let us know when the lectures will be dropping? Can't wait to dive in 🔥",
+      "intent": "question",
+      "topic": "lecture schedule",
+      "subtopic": "release dates",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxJkv9gWVhqjbLenn94AaABAg",
+      "text": "Thank you, bhaiya! I accidentally came across your channel a few days ago, and I regret not finding it earlier. I'll definitely follow this AI  series and keep improving. Thank you for sharing such valuable knowledge!",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "future follow",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwVxHgr0a-EsTW6TcR4AaABAg",
+      "text": "ohh wow . It was much needed. thankyou sir but i request if possible please post 2 videos a day so as to complt it faster",
+      "intent": "content_request",
+      "topic": "content frequency",
+      "subtopic": "video rate",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugzkx_OVPxpsVP5Te6J4AaABAg",
+      "text": "Very excited, Bhaiya. Hope this will be helpful",
+      "intent": "agree_validate",
+      "topic": "content reaction",
+      "subtopic": "excitement",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugywy3nufrSIhVJOhw54AaABAg",
+      "text": "Thank you bhaiya new subscriber, and i am a complete beginner,will follow you from start on this ✨🌸",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "new subscriber",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzlZsDiHvhKH_PXiKJ4AaABAg",
+      "text": "Thank you bhaiya, I have never seen a mentor like you. Thank you for generating these contents",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "mentor",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzxmdFPHZUxR4gG_814AaABAg",
+      "text": "Thanks a lot bhaiya for starting AI series . Recently i found your dsa playlist and start learning from that and that's was amazing .Your way of teaching is awesome . I want to learn AI but not assure to learn from other courses  . I really want to learn  AI from you .Bhaiya please start this series as soon as possible .....waiting for the AI series😀",
+      "intent": "content_request",
+      "topic": "ai series",
+      "subtopic": "start request",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyGzexUrgdMOjWCkyV4AaABAg",
+      "text": "thank you goat was so happy seeing this",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "happiness",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugxmk9cgg46CZXXwgcF4AaABAg",
+      "text": "I really enjoy learning from you. Earlier, I couldn't solve even a single DSA problem, but now—after learning the patterns from you—I can easily solve 3 to 4 of them. And now, I'm looking forward to enjoying AI/ML as well.",
+      "intent": "share_experience",
+      "topic": "learning progress",
+      "subtopic": "dsa improvement",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwGwQIHYCSbJqDIv394AaABAg",
+      "text": "Love Ur videos.❤",
+      "intent": "praise",
+      "topic": "video appreciation",
+      "subtopic": "love",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzAtdEENEO8_yAitj94AaABAg",
+      "text": "fully excited to read from the best teacher i kknow ever",
+      "intent": "praise",
+      "topic": "teacher appreciation",
+      "subtopic": "excitement",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzA73iJPSi0-z0BQHt4AaABAg",
+      "text": "Finally Man !!❤",
+      "intent": "praise",
+      "topic": "general appreciation",
+      "subtopic": "relief",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwYC-RTbajjxcerMXt4AaABAg",
+      "text": "Thank You Brother Got to know about u few months back Already started your dsa series and really excited for this one as well Thanks a lot for all your efforts you are really a gem",
+      "intent": "share_experience",
+      "topic": "course feedback",
+      "subtopic": "dsa series",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwucXNRCzb7PNiTp6Z4AaABAg",
+      "text": "Bahut sahi bhaiya ji ❤❤ me appka dsa follow jr rha hu mene bahut logo se pta par apse pad ke smj aya ki padne ke tarike bahut mayne rakta h me jarur ai wale course deku ga or build own ai wala project bhi bnauga sik ke aapsw 😅❤❤love from tier 3 clg ❤",
+      "intent": "share_experience",
+      "topic": "course feedback",
+      "subtopic": "ai course plan",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzhKaKxQJA6pEYKtWd4AaABAg",
+      "text": "Chalo kar liya subscribe pehli baar tumhara video feed mein aaya hai dekhte hai  kaisa rahega",
+      "intent": "share_experience",
+      "topic": "channel interaction",
+      "subtopic": "subscribed",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxN9TrnfrU_PneEDXx4AaABAg",
+      "text": "finally @pratysuh bhaiya, mene socha tha ki kash aap AI/ML content bhi padha dete so humare liye placement full stack course ho jata jaise aapne DSA best padhaya waise aap AI/ML bhi bhot achchhe se padhayenge waiting for the series love you bhaiya ☺☺",
+      "intent": "content_request",
+      "topic": "ai ml content",
+      "subtopic": "new series",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxFQjwUKjBVdew2keF4AaABAg",
+      "text": "Collage 2nd Year\nConfsion yhi tha ki AI engineer means openai jaisi companies me direct but but ab samjh aaya \nReady to follow you boss",
+      "intent": "share_experience",
+      "topic": "career guidance",
+      "subtopic": "ai engineer",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugx_LMfScLlNpGj4MYd4AaABAg",
+      "text": "Bhai sahab ab dsa ke bad AI keep it up bhaiya \nReady to learn 🎉",
+      "intent": "agree_validate",
+      "topic": "ai content",
+      "subtopic": "post dsa",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugxm40avnhmuJuknl_h4AaABAg",
+      "text": "Love you Bhaiiii\nThank You so much !!!!",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "gratitude",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy4GTm10SK2a55aOO94AaABAg",
+      "text": "Garda udaa diye Piyush bhaiya",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "mindblown",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyXa2tQHC-Hq3ILUc54AaABAg",
+      "text": "Waiting for new AI course, As i already following you DSA Pattern course \nI'd say confidently this course will be bestest best course ever",
+      "intent": "content_request",
+      "topic": "ai course",
+      "subtopic": "new series",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugz-ahtrQyPwRtNPijZ4AaABAg",
+      "text": "Only 3 words,  thank u bhai ❤",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "thank you",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugz6v1JudprnnKfF3p94AaABAg",
+      "text": "I subscribed you🎉🎉 for your support and dedication 😊",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "subscription",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwYPfKFq8-Qehw7JYV4AaABAg",
+      "text": "Thank you sir 🙏🙏",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "thank you",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugx76sDpr_wHWSSA--h4AaABAg",
+      "text": "bhai yar jaldi shuru karo please or roj video upload kerna he",
+      "intent": "content_request",
+      "topic": "content schedule",
+      "subtopic": "daily upload",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyvvmlDJ28HTBsLjCt4AaABAg",
+      "text": "we are always ready bhiya .",
+      "intent": "agree_validate",
+      "topic": "support",
+      "subtopic": "readiness",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxMNpxUdyS9rko_Oq94AaABAg",
+      "text": "bhaiya aapne bhot acha DSA pda diya h aap thoda guide kr dijiye ki system design,sql in sab pr kitna dhyan dena h baki DSA playlist ke liye dil se thank u ❤",
+      "intent": "question",
+      "topic": "learning guidance",
+      "subtopic": "focus areas",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": true
+    },
+    {
+      "id": "UgwFFOx2_iiqZyiDjUd4AaABAg",
+      "text": "Combining this course with Chip Huyen's AI Engineering. Let's hope for the best.\nAmen!",
+      "intent": "agree_validate",
+      "topic": "course combo",
+      "subtopic": "chip huyen",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyN_S7KpAkI9uLCyqB4AaABAg",
+      "text": "BHAIYA DSA SERIES KE BAAD KYA EK LIVE RAKHOGE 😊",
+      "intent": "content_request",
+      "topic": "live session",
+      "subtopic": "post dsa",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgwjEv75PlcIxUzE3Np4AaABAg",
+      "text": "Stay on your words bro. I subscribed you",
+      "intent": "praise",
+      "topic": "creator praise",
+      "subtopic": "subscription",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugyg5gCLFJRutmcbTld4AaABAg",
+      "text": "would love to learn from you Man",
+      "intent": "content_request",
+      "topic": "learning request",
+      "subtopic": "personal mentorship",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzwinhdYsaliXiKDSp4AaABAg",
+      "text": "Another Hacker Series , great bhaiya",
+      "intent": "praise",
+      "topic": "content feedback",
+      "subtopic": "hacker series",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzpYOyOCHSxSw5d7EZ4AaABAg",
+      "text": "thank you for considering BCA and MCA students also",
+      "intent": "praise",
+      "topic": "gratitude",
+      "subtopic": "bca mca",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzQuNWD8yRuexQR8mx4AaABAg",
+      "text": "glad i found your channel and learning dsa for now , but for development if you are going to teach ai engineer then please do it i really need it i am so confused now to what to learn in development but now if you are teaching ai engineering then i will be consistent to it and learn along  , pleasse start this series and also provide your sheet for roadmap including modules \nand last thank you",
+      "intent": "content_request",
+      "topic": "ai engineering",
+      "subtopic": "roadmap request",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxhmrTTV8GJabEhJTd4AaABAg",
+      "text": "College last year student. Looking forward to your course",
+      "intent": "share_experience",
+      "topic": "course anticipation",
+      "subtopic": "looking forward",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwndnZrrXwarub7rdh4AaABAg",
+      "text": "when this will start plz start as soon as possible sir.love the way uhh teach....its my final year...n companies are coming",
+      "intent": "question",
+      "topic": "series start",
+      "subtopic": "start time",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzjGYi8g6iuSJJoj7F4AaABAg",
+      "text": "2:46 Baad m dhek lenga badhiya tha 😂😂",
+      "intent": "praise",
+      "topic": "video segment",
+      "subtopic": "timestamp",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugxh--c60j9MkFBNkMd4AaABAg",
+      "text": "bhai please system design ki series bhi bana do",
+      "intent": "content_request",
+      "topic": "system design",
+      "subtopic": "series request",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxaN7gD2t-5FxgcD-p4AaABAg",
+      "text": "THANK YOU BHAIYAAA....",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "thank you",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxHBpQgy-a3KgcFIix4AaABAg",
+      "text": "Thanks bhaiya ❤",
+      "intent": "praise",
+      "topic": "appreciation note",
+      "subtopic": "thanks",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgygP8cl7-HlgqLOTyp4AaABAg",
+      "text": "Bhayya ..aaap please ... projects vale videos banayie aapke vaale really unique hothe haii... please banayiye",
+      "intent": "content_request",
+      "topic": "project videos",
+      "subtopic": "request",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgwbRhZSLXMByHqJwKR4AaABAg",
+      "text": "Bhaiya I'm following you with consistency from one month and love the approach of your teaching ,and getting confidence in DSA just because of you ,thanks for your precious time you are investing for our betterment ,I'm ready to give my 100% 🥰",
+      "intent": "praise",
+      "topic": "appreciation note",
+      "subtopic": "teaching",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwVNwh0t54OA8uffCB4AaABAg",
+      "text": "job switching (btech 2024 passout )\nThank you bhaiya. DSA tho late se pata chala, Iss series ka tho time se pata chala. Consistent rahungi!!!!",
+      "intent": "share_experience",
+      "topic": "career advice",
+      "subtopic": "job switching",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugxj59UM0_ouYCyYtD54AaABAg",
+      "text": "Jaldi start Karo bro sirf projects based try kr na ❤",
+      "intent": "content_request",
+      "topic": "project based",
+      "subtopic": "start soon",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugzl6OFBAl0R78k7d4B4AaABAg",
+      "text": "teaching freely for what IITian taking 1 lac around ....good work i was looking for this course",
+      "intent": "praise",
+      "topic": "appreciation note",
+      "subtopic": "free teaching",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugxc5xIXDyAuN38Tq7Z4AaABAg",
+      "text": "Bhaiya Dsa ke remaining topics kab tak khtm karaoge? Btw I am forever grateful for the dsa series ❤",
+      "intent": "question",
+      "topic": "dsa timeline",
+      "subtopic": "remaining topics",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugxwx5llipYC5fj-2314AaABAg",
+      "text": "Thank you sm bhaiya",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "thanks",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxRaaLTotStxejxTRR4AaABAg",
+      "text": "thank you so much sir",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "thanks",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugw12GnWdQh42rD2C9x4AaABAg",
+      "text": "Bhaiya thankyou , sala smjh hi nhi aarha tha web dev karra hu fomo hora tha, backend padh rha abhi , thodi bohot iski knowledge hojaegi to char chand lag jaenge , final year start hora ab to bhaiya jaldi hi start kardijiyega .",
+      "intent": "content_request",
+      "topic": "content schedule",
+      "subtopic": "start soon",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugy5EAPKJqQPemuOvd54AaABAg",
+      "text": "You are best sir",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "compliment",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwFJXo2kqNv8F0lx7B4AaABAg",
+      "text": "Bahiya bas ek day wise topic list de dijiye",
+      "intent": "content_request",
+      "topic": "topic list",
+      "subtopic": "day wise",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzCsuO6xwFeTnZ85x54AaABAg",
+      "text": "When it’s starting? Is it mentioned in the video.. did I miss it? Btw excited for this series",
+      "intent": "question",
+      "topic": "release timing",
+      "subtopic": "start time",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwmDt5Sme9yPR--4Zl4AaABAg",
+      "text": "waiting for this course",
+      "intent": "share_experience",
+      "topic": "course wait",
+      "subtopic": "awaiting release",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxHrw_cpVcJbGCJoXR4AaABAg",
+      "text": "Thank you so much",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "thanks",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyRdmsas-uloSmt54R4AaABAg",
+      "text": "bhai ne sabki aankein kholdi",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "insight",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzXdMa16wPEH64ipmp4AaABAg",
+      "text": "Pratyush bhai, please prerequisites bhi bata dijiye iska",
+      "intent": "content_request",
+      "topic": "prerequisite info",
+      "subtopic": "requirements",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzSCU071PsmDc1fLd94AaABAg",
+      "text": "I''' ll follow this I'll be dedicated",
+      "intent": "agree_validate",
+      "topic": "commitment",
+      "subtopic": "follow",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzQo8Toz7UFXqktyl94AaABAg",
+      "text": "Waiting",
+      "intent": "other",
+      "topic": "video status",
+      "subtopic": "waiting",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyVrgZCiQVF24HpB4Z4AaABAg",
+      "text": "Bhaiya dsa ke liye aage bta do aur kuch please",
+      "intent": "content_request",
+      "topic": "dsa tutorial",
+      "subtopic": "more content",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugym7UOXt7K0OpYfhpd4AaABAg",
+      "text": "Sir ai road map bhi bta dete",
+      "intent": "content_request",
+      "topic": "ai roadmap",
+      "subtopic": "future guide",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxItwWgIJqWmHaqHzl4AaABAg",
+      "text": "Less Gooo 🎉",
+      "intent": "praise",
+      "topic": "excitement",
+      "subtopic": "cheer",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxR-wrfv63YJa5_uYJ4AaABAg",
+      "text": "abb ayegaa mjaaa",
+      "intent": "praise",
+      "topic": "anticipation",
+      "subtopic": "fun",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwtQdP1POhtGT_C3SV4AaABAg",
+      "text": "Sir ek pura 20 hrs ka video upload kardo , ek ek video upload karne se acha 😅",
+      "intent": "content_request",
+      "topic": "video length",
+      "subtopic": "full video",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzAV5s00Dguu3140Fl4AaABAg",
+      "text": "Bhai Alakh pandey sir ko aap jante ho hoge woh v zero level k students ko lekar chala ekdum complete kerwate gya aapke jaise ...aaj dekh kaha hai..waise hi aap padhate ho...ek din aap v ussi maukam pa hogge bhai... complete kerwa dena bhai..",
+      "intent": "praise",
+      "topic": "creator appreciation",
+      "subtopic": "teaching style",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzNYU7ZOQsg2wrvu054AaABAg",
+      "text": "Bhaiya aap please aptitude ka solution digiye yaa fir aap hi video bna do uspe please",
+      "intent": "content_request",
+      "topic": "content request",
+      "subtopic": "aptitude solution",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgydL6nl5UH8IJ8Js4J4AaABAg",
+      "text": "Bhaiya pls make video on mern projects...it will be very helpful",
+      "intent": "content_request",
+      "topic": "content request",
+      "subtopic": "mern projects",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzdksubCcr4lmCG5DR4AaABAg",
+      "text": "Sir, I wanted to know when will you start uploading videos?",
+      "intent": "question",
+      "topic": "upload schedule",
+      "subtopic": "future uploads",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy_mxY1EqR3UAcbn1F4AaABAg",
+      "text": "Bhaiya, aap mere life saviour ho thank you bhaiya....aapka video pataa nhi kaise bhagwaan kripa se aa gya mere Insta feed pe, Nov 2025 mein, DSA Patterns ko leke...sabko free mein padhaa ke DSA save kar liya aapne humaara.\nEk request h...although you won't agree with me probably..if you want to teach for AI roles, you can launch its course for Rupees 150 (not costly) something...because itna aap deserve karte ho apne mehant aur time investment kaa...so that only serious people watch it..and that too seriously...that will avoid distractions also...baaki aapki marzi aap jahaan bhi padhaana chaahte hain. Thanks a lot.😉❤",
+      "intent": "share_experience",
+      "topic": "personal impact",
+      "subtopic": "dsa patterns",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyEA7K5ffA3oV939uB4AaABAg",
+      "text": "I m starting this today day 1",
+      "intent": "share_experience",
+      "topic": "progress update",
+      "subtopic": "day 1",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy6_a2FFi2YKasWqd94AaABAg",
+      "text": "bhai goal Agentic AI... please...from bangladesh....full dsa serially follow kar raha huu",
+      "intent": "content_request",
+      "topic": "agentic ai",
+      "subtopic": "tutorial request",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugwpzf07zuH699-USQl4AaABAg",
+      "text": "Plz start it sooner🙏😭",
+      "intent": "content_request",
+      "topic": "video schedule",
+      "subtopic": "start sooner",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzKYcHfdzlikcXfrVN4AaABAg",
+      "text": "Bhaiyaa placement season start hoga august se \nRegularly video upload karna please 🥺",
+      "intent": "content_request",
+      "topic": "video uploads",
+      "subtopic": "regular uploads",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgwwMIQXwH8eAZVg2Hp4AaABAg",
+      "text": "I really want it",
+      "intent": "content_request",
+      "topic": "content request",
+      "subtopic": "desire",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy_IHggw2wgZZt-58l4AaABAg",
+      "text": "Bhaiya please MERN stack and nextjs pe unique projects de dijiye.",
+      "intent": "content_request",
+      "topic": "mern stack",
+      "subtopic": "unique projects",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgwSYeutupwDI7vXTZ94AaABAg",
+      "text": "Started today 🎉",
+      "intent": "share_experience",
+      "topic": "progress update",
+      "subtopic": "started today",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxLif5dTUWgL2MPWMd4AaABAg",
+      "text": "Bhiya daily study videos like apke DSA series type AI me kab se aane lagega..",
+      "intent": "content_request",
+      "topic": "future content",
+      "subtopic": "ai videos",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugyisk3T8v8hqP_2-Bl4AaABAg",
+      "text": "Sir aap web development pdao apka version b chahiye dsa best tha ab web dev",
+      "intent": "content_request",
+      "topic": "web development",
+      "subtopic": "course version",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxI934uojDDQR_oJA94AaABAg",
+      "text": "Bhaiya course kbse ayega? Aur bhaiya ek project bhi leke chliyega jisse hum end to end banayenge with deployment",
+      "intent": "content_request",
+      "topic": "course release",
+      "subtopic": "project deployment",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxJA_js9GBwqzSpVEd4AaABAg",
+      "text": "Bhaiya is the DSA pattern playlist completed??? I am actually following that playlist currently thats why I am asking, alongside I will be following this series also. Thank you",
+      "intent": "question",
+      "topic": "playlist status",
+      "subtopic": "dsa pattern",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugwqy_tpE2agm7EpG1Z4AaABAg",
+      "text": "Thanks bro actually I’m going to move out from india in masters degree for Ai and hpc but right now i don’t have decent skills and coding languages i tried but every time failed i know python a bit so please release this course as soon as possible",
+      "intent": "content_request",
+      "topic": "course release",
+      "subtopic": "ai hpc",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgycdOkOR2yRVCo_fCh4AaABAg",
+      "text": "You are doing a great job, I want to ask you a question, I have basic knowledge of ML and DL stuff and some projects using neural networks, so how this course will uplift my knowlegde ?? like will it add more value to my current learning and will you teach in a project based method ?",
+      "intent": "question",
+      "topic": "course value",
+      "subtopic": "project based",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugx4hPNjGPQq1_l6KBJ4AaABAg",
+      "text": "Bhai data engineer padha do complete..ya phir aap advice ker do..kaun sa paid course hai with placement for data engineer pls.. suggest bhaiyaa",
+      "intent": "content_request",
+      "topic": "course recommendation",
+      "subtopic": "data engineer course",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugz4hNgqzuGRFDuwrHx4AaABAg",
+      "text": "Finished Andrew Ng",
+      "intent": "share_experience",
+      "topic": "course completion",
+      "subtopic": "andrew ng",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy3C7rQPnOrPgKCvUV4AaABAg",
+      "text": "Thankyou bhaiya second year start hoga aug mein DSA + ai series shi rhega ya iskliye pehele full stack bhi zruri hota h",
+      "intent": "question",
+      "topic": "learning path",
+      "subtopic": "dsa ai",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugz4PlN0ai7kI417NjV4AaABAg",
+      "text": "I know now that you deliver the study content in best way, I just want to know which resources are you personally following",
+      "intent": "question",
+      "topic": "resource recommendation",
+      "subtopic": "personal resources",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxBrj8Y7Epk7Dae6nB4AaABAg",
+      "text": "Agar pratyush bhai padha rahe hai to poore internet se alag aur hatke hone ki guarantee hai.. aur ek baat ki yahi same course jo yaha free mein mil rha hai vo bahar 8-10K mein hai..",
+      "intent": "praise",
+      "topic": "course value",
+      "subtopic": "price comparison",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy99-bXJpiypVxkD494AaABAg",
+      "text": "Hoo🎉",
+      "intent": "praise",
+      "topic": "appreciation",
+      "subtopic": "celebration",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxHokc9_raxrK2aOYV4AaABAg",
+      "text": "college last year student",
+      "intent": "share_experience",
+      "topic": "college student",
+      "subtopic": "final year",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwSpJHvRq7icLt-uu54AaABAg",
+      "text": "Kab se shuru ❤❤",
+      "intent": "question",
+      "topic": "start date",
+      "subtopic": "when",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzyKfvamfrQ-5Mqzyh4AaABAg",
+      "text": "bhai dsa series follow kar raha hu too good 2 saal dsa bandh chalu karne ke baad finally kuch aage bada.\nsystem design kaha se prepare kana hai bata do plz",
+      "intent": "question",
+      "topic": "system design",
+      "subtopic": "preparation resources",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugy6omCdCiTGl-hZhgx4AaABAg",
+      "text": "Please dsa ke liye guide kardo bahut confusing hoti hai baar baar switch krta hu dikkat hoti h",
+      "intent": "content_request",
+      "topic": "dsa help",
+      "subtopic": "guide request",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugz9UDbYtvvScye0eaR4AaABAg",
+      "text": "Bhaiya ek problem ho rahi hai dsa solve karne me ,  function likhte nahi ban rhe jese vector ka function bana raha to push kese kru ... Esi silly silly problem aarhi...\n\nPlease help me , kya kru ...\nPlease bhaiya pls help",
+      "intent": "question",
+      "topic": "dsa problem",
+      "subtopic": "function implementation",
+      "sentiment": "negative",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyMoimE5yRg4gLUDjB4AaABAg",
+      "text": "i have covered Machine learning , and built projects but not able to get internships",
+      "intent": "question",
+      "topic": "internship advice",
+      "subtopic": "ml internships",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxS23U1cFJBV6hnMjN4AaABAg",
+      "text": "Data analyst course plz.",
+      "intent": "content_request",
+      "topic": "course request",
+      "subtopic": "data analyst",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyHXOEGDLIJ9-6IAX14AaABAg",
+      "text": "Hi Bhaiya,\nKya Aap popular Reference book \"Ai Engineering by Chip Huyen\" ke concepts cover karenge. iss course mai??",
+      "intent": "question",
+      "topic": "course content",
+      "subtopic": "ai engineering",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwOjnFWpzGEmJCdMMR4AaABAg",
+      "text": "University student \nLearning Mern stack",
+      "intent": "share_experience",
+      "topic": "learning progress",
+      "subtopic": "mern stack",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwJEkiI60LLGx6CYox4AaABAg",
+      "text": "aapse sirf 2 promise chahiye:\r\n1. aap consistent rahenge videos k saath\r\n2. ekdm demo code videos anhi banaenge. Please aisa code banaye jo actually industry mein use ho. NO langchain toy problem.",
+      "intent": "content_request",
+      "topic": "video consistency",
+      "subtopic": "industry code",
+      "sentiment": "negative",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxHrqxdipGA666CXXN4AaABAg",
+      "text": "Bhaiyaa free course krna ❤",
+      "intent": "content_request",
+      "topic": "free course",
+      "subtopic": "request",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxLOF4t_Lr8Ehz63cd4AaABAg",
+      "text": "Bhaiya web development ka course please",
+      "intent": "content_request",
+      "topic": "course request",
+      "subtopic": "web development",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxfYPFye4nEEo99Vut4AaABAg",
+      "text": "SQL BHI PARHA DO SIR",
+      "intent": "content_request",
+      "topic": "sql tutorial",
+      "subtopic": "teach sql",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzX5nu_50-pgYeZXQp4AaABAg",
+      "text": "If interviewers will ask some questions based on Mathematics, then at instant the candidate fail.",
+      "intent": "disagree_debate",
+      "topic": "interview preparation",
+      "subtopic": "math questions",
+      "sentiment": "negative",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwOhJKYqwij5qp90wB4AaABAg",
+      "text": "Sir final year student and on campus placements starts from september....sir plss finish this course before september😅❤",
+      "intent": "content_request",
+      "topic": "course schedule",
+      "subtopic": "deadline september",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxVhYPoPTEnFUFqRWR4AaABAg",
+      "text": "Sbse bara issue h theory sb prha rha pr project based learning nhi h bhaiyaaa",
+      "intent": "share_experience",
+      "topic": "teaching method",
+      "subtopic": "lack of projects",
+      "sentiment": "negative",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxYG3davyCfwXI3lth4AaABAg",
+      "text": "Ok",
+      "intent": "agree_validate",
+      "topic": "acknowledgement",
+      "subtopic": "ok",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzUg5EVgsejXtEx4Dt4AaABAg",
+      "text": "actually i'm doing a course provided by our college the main problem is project i dont know where to start and build a project that will help me the instructor in that course shows the project that he has build shows the flow but never guided how and what to do as a beginner its tuf f",
+      "intent": "confusion",
+      "topic": "project guidance",
+      "subtopic": "starting project",
+      "sentiment": "negative",
+      "urgency": "high",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzZfnffmwdp3p_GVqV4AaABAg",
+      "text": "completed",
+      "intent": "share_experience",
+      "topic": "progress update",
+      "subtopic": "completed",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugw82CA-ReS3J2l3zah4AaABAg",
+      "text": "Sir aap llm evals bhi karayenge kya?",
+      "intent": "question",
+      "topic": "llm evals",
+      "subtopic": "availability",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugw9qrawyLyNEW70HM14AaABAg",
+      "text": "Bhaia project ke help se seekhayega please",
+      "intent": "content_request",
+      "topic": "project help",
+      "subtopic": "learning request",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzbnL-wXqVricwNLJB4AaABAg",
+      "text": "bhaiya background tv me dekho 😂😂",
+      "intent": "other",
+      "topic": "humor comment",
+      "subtopic": "tv background",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxA2KTbN4lMv-u11OF4AaABAg",
+      "text": "Today i have started 19 july 2026 Day 1 Sunday.",
+      "intent": "share_experience",
+      "topic": "daily log",
+      "subtopic": "day 1",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugw8YWPTzU4JuwhHfIB4AaABAg",
+      "text": "Pre final year",
+      "intent": "share_experience",
+      "topic": "academic status",
+      "subtopic": "pre final year",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugxj3dTMWeK-j49zINx4AaABAg",
+      "text": "Bhaiya maine ese baar NSUT Delhi me mtech in IT mai admission liya hai ... Kafi confused tha ki kya kya aur kaise kru ..but ab se apka dsa + AI dono course ki bdhiya se krunga ... Koi suggestion ho toh please bta dijiye as a mtech student... Gate mai number km aa gye the 😢",
+      "intent": "question",
+      "topic": "course guidance",
+      "subtopic": "mtech suggestions",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugy9_kCczA6pnUr3D_J4AaABAg",
+      "text": "Ham kauno coarse nahi liye bhaiya 😅 Ai engineering ke liye",
+      "intent": "share_experience",
+      "topic": "course enrollment",
+      "subtopic": "none taken",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugz9UDBIO4d_Xj7-mJ14AaABAg",
+      "text": "Bhaiya jaisa ki aapne likha h 8 weeks please 2-4 week se jyada uper niche mt kriyega kyunki mai abhi final yr me hu to mujhe sikh k project v banana h mai agar 3 month me complete ho jayega to iske 1 project bna k ache se interview m confident hoke baith paunga",
+      "intent": "content_request",
+      "topic": "timeline request",
+      "subtopic": "duration limit",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxsK_Yd5HbFzWT0Efl4AaABAg",
+      "text": "ye bahiya tani ye bhi smjha sijeyega kha kha apply kre iske baad aur kyse company clear kre",
+      "intent": "question",
+      "topic": "career guidance",
+      "subtopic": "application places",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugz_t959MjlqHULezYh4AaABAg",
+      "text": "hello, bhai mai abhi dsa series dekh rha hun toh kya mughe sath me parallel me ye ai course dekh sakta hunn kya",
+      "intent": "question",
+      "topic": "course scheduling",
+      "subtopic": "parallel study",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxN1t3MwdGMioNkYq54AaABAg",
+      "text": "only one question kya merko aap utna sikha doge ki mai interview mein sbka jawab de pau? like everything?",
+      "intent": "question",
+      "topic": "learning scope",
+      "subtopic": "interview readiness",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxftW-ZvoyUabNALvJ4AaABAg",
+      "text": "SIR WHEN YOU WILL  START THIS AI COURSE COURSE FROM SCRATCH RAG LLM LANGCHAIN VETORDB  AND AI CONCEPT WITH PROJECT",
+      "intent": "content_request",
+      "topic": "ai course",
+      "subtopic": "from scratch",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgwSM8LW26XfdaUGAh94AaABAg",
+      "text": "Bhaiya web development ya ai engeneering mein se kon si field ke liye padhna chahiye achi job ke liye? Abhi currently aapki dsa series follow kr rha hu for preparation please help",
+      "intent": "question",
+      "topic": "career advice",
+      "subtopic": "field selection",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgwfSlZaolcO6nC_6zt4AaABAg",
+      "text": "Aap abhi kis stage par ho-college\r\n2. AI Engineer ke baare mein aapka sabse bada confusion h what the company demands from fresher for this roles, how much depth required",
+      "intent": "confusion",
+      "topic": "career expectations",
+      "subtopic": "company demands",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugygftvvr9dlJKcYk314AaABAg",
+      "text": "bhaiya kabse start ho ga ?",
+      "intent": "question",
+      "topic": "schedule",
+      "subtopic": "start date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy0K3UL9KvhhlUggrp4AaABAg",
+      "text": "bhaiya aap bas padhao. aap jo padhaoge me sab padhuga",
+      "intent": "agree_validate",
+      "topic": "teaching request",
+      "subtopic": "encouragement",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzUHDyVGwxJ_JyCtOp4AaABAg",
+      "text": "MTech",
+      "intent": "share_experience",
+      "topic": "education",
+      "subtopic": "mtech",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyfZUkCp3nFeqWSD6h4AaABAg",
+      "text": "Sir DSA kab end hoga",
+      "intent": "question",
+      "topic": "course schedule",
+      "subtopic": "end date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxSnh12h_xRY5K9FBt4AaABAg",
+      "text": "Bhaiya 2 doubt the bs:-\n1) Mera august me 4th yr start hone wala hai so kya late ni ho jaega ab?\n2) Agentic Workflow isme sikhaenge kya (langGraph)?",
+      "intent": "question",
+      "topic": "course content",
+      "subtopic": "agentic workflow",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugz9eww_OsaaoyyF8Cl4AaABAg",
+      "text": "Bhaiya kya isme aap python ya typescript bhi phadyenge?",
+      "intent": "question",
+      "topic": "course content",
+      "subtopic": "python typescript",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwJwiA-LytfPk_Qx8h4AaABAg",
+      "text": "Bhayea mere company me automation ka kaam hone wala hai ye video helpful hoga automation bnane ke liyea",
+      "intent": "share_experience",
+      "topic": "video usefulness",
+      "subtopic": "automation",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxC2BCw2kn5axC6Xpt4AaABAg",
+      "text": "bhaiya when will it be started  ? because as semester is about to start i am in 4th year ...placement season is starting so i can plan accordingly.",
+      "intent": "question",
+      "topic": "course schedule",
+      "subtopic": "start date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwIMU28PO0eRLrgvSd4AaABAg",
+      "text": "Kabse suru hoga ?",
+      "intent": "question",
+      "topic": "course schedule",
+      "subtopic": "start date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxoVN4Cj1LkBuW0pbl4AaABAg",
+      "text": "hello bhaiya abhi Btech cse ai ml me hu 5th semester............. Mai aapka dsa pattern wise dekh rha hu jo merko bht help kr rha hai mai dsa solv kr rha hu , logic dheere dheere build ho rha hai but mai ye nhi samjh paa rha hu ki revision kaise karu pattern's ka karu y question's ka ............ bhaiya aap merko help kr dijiye mujhe samjh nhi aa rha hai ........ ek video y comment kr dijiye mai kaise karu .............. aap guide ke dijiye",
+      "intent": "confusion",
+      "topic": "revision help",
+      "subtopic": "dsa patterns",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugwr-nwzrQJHPVVHlgp4AaABAg",
+      "text": "kab se chaloo karoge bade bhai ?",
+      "intent": "question",
+      "topic": "content schedule",
+      "subtopic": "start date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyHxioqDDuAwr8HrTJ4AaABAg",
+      "text": "Bro video lab ay gi ?😊",
+      "intent": "question",
+      "topic": "future content",
+      "subtopic": "lab video",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyLK-82k2p-CCAkTxd4AaABAg",
+      "text": "Bhaiyaa ye series start karnese pehle mujhe python sikhna padega ya mei seedha ye series start kar sakta huu ?? please batao 🙏",
+      "intent": "question",
+      "topic": "prerequisite knowledge",
+      "subtopic": "python needed",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxSK6YjVpvmGxecNgx4AaABAg",
+      "text": "paid hi le aao  we can pay but quality must be top notch",
+      "intent": "content_request",
+      "topic": "paid content",
+      "subtopic": "quality demand",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzWyvKC3i1snD8bTid4AaABAg",
+      "text": "bhaiya 3rd year btech cs student hoon, what domain should I choose ? Kese pata karu kisme interest hai ? Pls guide me",
+      "intent": "question",
+      "topic": "career guidance",
+      "subtopic": "domain choice",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyiG5wENiGS6xoMlC14AaABAg",
+      "text": "Bhaiya please in python please",
+      "intent": "content_request",
+      "topic": "python tutorial",
+      "subtopic": "code example",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugx9hM5yra0DAkiB-3B4AaABAg",
+      "text": "Bhaiya.... \nAi ke liye kitne specs ka laptop chaiye....\nKya graphics card walla laptop jaruri haiii...???",
+      "intent": "question",
+      "topic": "hardware requirements",
+      "subtopic": "ai laptop specs",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzoMGgDmZSauVAiQHZ4AaABAg",
+      "text": "Pratyush bhai btech cse 2024 passout hu\n4 month job ki fir layoff \nAbhi June 2026 tak unemployed hu.  Job interview diye kisi me select nhi hua  boht dikkat hai guide krdo please",
+      "intent": "share_experience",
+      "topic": "career advice",
+      "subtopic": "job search",
+      "sentiment": "negative",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyyDUIhKmW1t3F6Bhp4AaABAg",
+      "text": "bhaiya \n\ncollege mai hu aur\n\nbegineer hu ai mai 🙂 please help",
+      "intent": "content_request",
+      "topic": "ai learning",
+      "subtopic": "beginner help",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgxiDl6817mAILtKYbJ4AaABAg",
+      "text": "Please read this comment.....\nbhaiya mein complete beginner hun dsa ke liye to mujhe apki ye playlist dekhne ke liye kis kis cheez ko padana padega.....mera level yahi hai ke mein bas basic syntax janta hun cpp ke...",
+      "intent": "question",
+      "topic": "learning resources",
+      "subtopic": "dsa prerequisites",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugx-3OdAusjwM2TwcQ54AaABAg",
+      "text": "hahhahahha. great starting",
+      "intent": "praise",
+      "topic": "video feedback",
+      "subtopic": "starting",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwxRCOliGJQC8S4dRt4AaABAg",
+      "text": "Kab se aaega bhaiya video any idea approx",
+      "intent": "question",
+      "topic": "video release",
+      "subtopic": "approx date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyMB484-s4ZqaSvrUd4AaABAg",
+      "text": "Bhai dsa kar rhe hai apka day 20 pe hu, to ye pdhe ya dsa? 2nd year me hu",
+      "intent": "question",
+      "topic": "dsa guidance",
+      "subtopic": "day 20",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzeaVX0c1XMD0ptZyx4AaABAg",
+      "text": "coffee wala bhi nhi laegega🥲",
+      "intent": "other",
+      "topic": "video content",
+      "subtopic": "coffee missing",
+      "sentiment": "negative",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzwWdwfGydhccviCNN4AaABAg",
+      "text": "BCA Student 3rd year college.",
+      "intent": "other",
+      "topic": "self introduction",
+      "subtopic": "bca student",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwibfBNgMVurjE5x194AaABAg",
+      "text": "I want to start coding... How to start  ?? 0 knowledge in this feild please guide me",
+      "intent": "question",
+      "topic": "coding start",
+      "subtopic": "beginner guide",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgzRmm2l37pqTg9uX8d4AaABAg",
+      "text": "Bhaiya as a bca student i learn dsa as well as development and I will to learn gen ai can I follow your course. ?",
+      "intent": "question",
+      "topic": "course enrollment",
+      "subtopic": "gen ai",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy7kJ3q8cB4eDNWJ1B4AaABAg",
+      "text": "Jiske paas CS degree nahi hai, kya wo ye sab seekh sakta hai?",
+      "intent": "question",
+      "topic": "learning eligibility",
+      "subtopic": "no cs degree",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwcKM9E8zziRCg1WmR4AaABAg",
+      "text": "Bhaiya kab start hoga course",
+      "intent": "question",
+      "topic": "course schedule",
+      "subtopic": "start date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyLs6tLGvLI-Pbty454AaABAg",
+      "text": "agr resume mei ai se related certificates daalne ho to kaha se daal skte hai?",
+      "intent": "question",
+      "topic": "resume advice",
+      "subtopic": "certificates placement",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy-4lg2kZvU3YiLJ2x4AaABAg",
+      "text": "bhaiya kab start hoga",
+      "intent": "question",
+      "topic": "course schedule",
+      "subtopic": "start date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgynBkNwOslkzfnf9ix4AaABAg",
+      "text": "As btech mechanical background 25 year passout willing to switch in it koi tips bhai",
+      "intent": "question",
+      "topic": "career transition",
+      "subtopic": "mechanical to it",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgybDzRnTSjpLfBlSXl4AaABAg",
+      "text": "Bhaiya like how important is it to learn this AI engineering course for those people whose domain is Fullstack Developer or targeting SDE roles. Like will it help in clearing interviews and all because currently the market condition is not good.",
+      "intent": "question",
+      "topic": "course relevance",
+      "subtopic": "fullstack developers",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwwKHWDHsUchsrx1wN4AaABAg",
+      "text": "Hi Sir, I'm from outside India. Is this course suitable for getting both remote jobs and local jobs in my country?",
+      "intent": "question",
+      "topic": "course suitability",
+      "subtopic": "remote jobs",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzpjTAxiw8SuFjdWYl4AaABAg",
+      "text": "Piyush bhai being a qa Automation test engineer. Can i learn this course and does this course help me as a software tester.",
+      "intent": "question",
+      "topic": "course relevance",
+      "subtopic": "software tester",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyMGLHaQjlERleaDO94AaABAg",
+      "text": "currently, I completed my 1st year and also completed my PRIME AIML Batch from apna college ,\nnow I am ready to REVISE ALL THE CONCEPT WITH WITH VIDEOS...😋",
+      "intent": "share_experience",
+      "topic": "study plan",
+      "subtopic": "revision videos",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugzv8cdwNO7xPpQmMiN4AaABAg",
+      "text": "Isme language python bhi chaiye ya java mai bhi kar sakte hai",
+      "intent": "question",
+      "topic": "language requirement",
+      "subtopic": "python java",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgymP38ZomSZSSEo-7x4AaABAg",
+      "text": "is the dsa playlist completed??",
+      "intent": "question",
+      "topic": "playlist status",
+      "subtopic": "dsa completion",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzY4k9zTC6X1CTc8cd4AaABAg",
+      "text": "bro im working in ey as a l2 support engineer for gen ai i have knowledge on Fundamental levels but the depth is missing as you've mentioned. want to be a full fledged ai engineer , ofcourse the target is faang i want to ask i should i integrate these knowledge skills ups with dsa in python as quick as possible so that i can atleast appear in interviews. no rush btw im still a fresher exp around 9 months",
+      "intent": "question",
+      "topic": "career advice",
+      "subtopic": "ai engineer",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugyp3NnuxQDE5f21dgZ4AaABAg",
+      "text": "Not able to create account on GROQ",
+      "intent": "other",
+      "topic": "unknown",
+      "subtopic": "unknown",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugyr9AFVWC0n_2FWSuF4AaABAg",
+      "text": "Bhaiya kya ye course agar ache se follow kro to kya AI interviews (roles) ke liye enough rhgega kya ??😊 bs etha bta dijiye",
+      "intent": "other",
+      "topic": "unknown",
+      "subtopic": "unknown",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyD2l2JJzRiAgBPVYd4AaABAg",
+      "text": "Bhaiya diploma mechnical hu mera kya hoga",
+      "intent": "other",
+      "topic": "unknown",
+      "subtopic": "unknown",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzcbhS2k71fslZtjrx4AaABAg",
+      "text": "Kab se start hoga bhaiya",
+      "intent": "other",
+      "topic": "unknown",
+      "subtopic": "unknown",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyMetKJCHoG-fM7-W54AaABAg",
+      "text": "Sab app pai Chor raha hun \nDsa toh apne krwa Diya \nAb please ai v master krwa do \n\n🙏🏿🙏🏿🫶🫶🫶🫶",
+      "intent": "other",
+      "topic": "unknown",
+      "subtopic": "unknown",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugz6AKzhvFM7yspOzn54AaABAg",
+      "text": "DSA kab complete hone ka chance hai, please reply.",
+      "intent": "other",
+      "topic": "unknown",
+      "subtopic": "unknown",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxYiSyU4yqQdaVKTcR4AaABAg",
+      "text": "start kab se hoga",
+      "intent": "question",
+      "topic": "start time",
+      "subtopic": "date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy8MjfkJdTpAAhC3CN4AaABAg",
+      "text": "Without maths how llm learning possible?",
+      "intent": "question",
+      "topic": "llm learning",
+      "subtopic": "maths",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugz0VbIU8CRPHxEp4ut4AaABAg",
+      "text": "God sent him for me 🤍",
+      "intent": "praise",
+      "topic": "personal appreciation",
+      "subtopic": "gratitude",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwPztSw3RkHAkdY3CF4AaABAg",
+      "text": "Coding abhi thik ho gya h",
+      "intent": "share_experience",
+      "topic": "coding progress",
+      "subtopic": "status",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugwm_5r3CMRYBo1MhXR4AaABAg",
+      "text": "Vaiya i am following ur dsa... it is best..... just one question... which project u r going to make as a capstone?  Plz reply❤❤❤",
+      "intent": "question",
+      "topic": "capstone project",
+      "subtopic": "project choice",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyXzRkJI6EE0ioFpR54AaABAg",
+      "text": "Bhai kab se shuru hoga ye course",
+      "intent": "question",
+      "topic": "course start",
+      "subtopic": "date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyUJ3o_oM79KIx_V0V4AaABAg",
+      "text": "When will u start?",
+      "intent": "question",
+      "topic": "start time",
+      "subtopic": "release date",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzbAlMp3ODD9AQgYr14AaABAg",
+      "text": "Do you tech agentic ai❤",
+      "intent": "question",
+      "topic": "content coverage",
+      "subtopic": "agentic ai",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzpP82kT8VyKuEfmSJ4AaABAg",
+      "text": "Python ani chahiye ye course ko padhne ke liye?",
+      "intent": "question",
+      "topic": "prerequisite requirement",
+      "subtopic": "python needed",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugz6b5aZcgnyzf-D8iJ4AaABAg",
+      "text": "Python jruri chye ya uske bina kr skege course",
+      "intent": "question",
+      "topic": "prerequisite requirement",
+      "subtopic": "python optional",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxyaVYsMXKJU8gR7Yx4AaABAg",
+      "text": "bhaiya dsa course khatam hogaya kya ab?",
+      "intent": "question",
+      "topic": "course status",
+      "subtopic": "dsa completion",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzydVohStYs_oLuULx4AaABAg",
+      "text": "sir ye generative ai wala course hai?",
+      "intent": "question",
+      "topic": "course content",
+      "subtopic": "generative ai",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyhaBSVt7F1VFvwAxV4AaABAg",
+      "text": "to become ai eng do i need  to learn whole sde stack? like react  django",
+      "intent": "question",
+      "topic": "career advice",
+      "subtopic": "sde stack",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzaM1AvSU2N-9EtDTl4AaABAg",
+      "text": "I am on the job switching stage nd want to make my next move in AI Roles -  AI Enginner, Prompt Engineer, Vibe Coder.. what after this course ?? from where to and what to and how to ??",
+      "intent": "question",
+      "topic": "career planning",
+      "subtopic": "next steps",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgygSHAfjxr9Jt6GvOt4AaABAg",
+      "text": "i want to crack an intern as an ai engineer. is it possible with this course",
+      "intent": "question",
+      "topic": "internship prospects",
+      "subtopic": "course suitability",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxsGH_i973hN-fNAxl4AaABAg",
+      "text": "Bhaiya web dev ka liye AI start kr rha ho kya",
+      "intent": "question",
+      "topic": "course content",
+      "subtopic": "web dev",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy2nGsoKpa-LKtZBqp4AaABAg",
+      "text": "job switching k liye enough hoga ye course?",
+      "intent": "question",
+      "topic": "course adequacy",
+      "subtopic": "job switching",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyVFUqGXlhN2xWv2ER4AaABAg",
+      "text": "Free  hoga or ya  Paid  hoga bhaiya ?",
+      "intent": "question",
+      "topic": "pricing info",
+      "subtopic": "free or paid",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugz-L356X3sJSMjUzoZ4AaABAg",
+      "text": "Bhai, me third year ke starting phase me hu. Aaj se padhana chalu kar raha hu, me aap par bharosa karta hu ki aapki ye playlist complete karne ke baad me bahut confidence mahadus karuga. \nChallenge accepted \n16/07/2026",
+      "intent": "share_experience",
+      "topic": "study motivation",
+      "subtopic": "third year",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgyRDiSDw-WFMqSlDK54AaABAg",
+      "text": "Bhai dsa ka playlist kb tk khatam hoga",
+      "intent": "question",
+      "topic": "playlist schedule",
+      "subtopic": "completion time",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugxn2R613JMybnB73sZ4AaABAg",
+      "text": "Hum liye the khatam kiye",
+      "intent": "share_experience",
+      "topic": "progress update",
+      "subtopic": "completed playlist",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxSYikW1K43c8rshyp4AaABAg",
+      "text": "Is it full GenAI course sir?",
+      "intent": "question",
+      "topic": "course content",
+      "subtopic": "genai completeness",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxKSVAtqWt7e94MVLx4AaABAg",
+      "text": "What are the perquisites required to start this series ?",
+      "intent": "question",
+      "topic": "course prerequisites",
+      "subtopic": "required knowledge",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzT1vRku86hA3wBeAF4AaABAg",
+      "text": "Which laptop should i buy for this",
+      "intent": "question",
+      "topic": "hardware recommendation",
+      "subtopic": "laptop choice",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxxnPP817W4QVn5MxB4AaABAg",
+      "text": "is the course free",
+      "intent": "question",
+      "topic": "course cost",
+      "subtopic": "free",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugw8C4lhH25VaOGHAIl4AaABAg",
+      "text": "maine 5 dollar credit kr liya bhaiya open ai me is playlist se job leke msg krunga ek cmnt bs krdena🙏🙏",
+      "intent": "share_experience",
+      "topic": "openai credit",
+      "subtopic": "5 dollar",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": false
+    },
+    {
+      "id": "UgzHCvRwHjf5FcSVFgN4AaABAg",
+      "text": "will we cover langchain and langgraph in this???",
+      "intent": "question",
+      "topic": "course content",
+      "subtopic": "langchain",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgxeKSle1ekU3c_IGJR4AaABAg",
+      "text": "Lets go!! Finally agya bhai\nEk suggestion hai bs, obviously kr hi rahe honge aap ye but, jo bhi job descriptions mein skill chahiye rehti hai when it comes to AI Engineer or vahi 15-20 buzzword related roles, vo sab cover hojega taaki most of the job roles ke liye prepare hojaye from memory to MCP to AGENTIC AI to LLM evals and what not, there is nothing structred out there, like courses hai but end to end shit kahi nahi hai, ofc banana usko is very difficult but Ye ML vala part ko side rakh ke agar AI aur AI Engineer pe aaye toh it's mostly Backend or other Software engineering+ Integrating AI all of it and making the product of company AI first, uske liye tyaar krva dena. Also I've came to the realisation ki development aur domain ke maamle mein jo fresher se pehle expect krte thay ab usse kayi zyada krte hai so please usi level ka padhana ki thoda advance ho bhi Jaye dikkat nahi but kaam aaye, zyada ata ho kam na ata ho.\nThat's all I had to say! Gonna follow this religiously!! All the best",
+      "intent": "content_request",
+      "topic": "course suggestion",
+      "subtopic": "ai engineer",
+      "sentiment": "positive",
+      "urgency": "low",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyikA2WbZBrleaR2sx4AaABAg",
+      "text": "bhaiya jitna pata hai aap padh rahe h toh aap ofcourse decide kar liye honge kaise kaise padhna hai or aap kaha se padhenge, toh please aiml series se pahle ek introduction video bana dijiyega jisme aap samjha denge pura study flow, kis type se iss series ko follow kare and how to think, q ki thinking bohot major part hoga kisi v chiz ko sikhne ka",
+      "intent": "content_request",
+      "topic": "intro video",
+      "subtopic": "study flow",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugxq1GC3JszvQPyNTCl4AaABAg",
+      "text": "Bhai jo v kahe log ..aur tm kadwi bolte ho but sach bolte ho..aur tum se bahut umeed hai piyush bhai..pls bana do bhai.AI engineer..aur aise hi sachai batate jao..ho k log jhut ka phobia banata hai apna views k liye...",
+      "intent": "content_request",
+      "topic": "content request",
+      "subtopic": "ai engineer",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "Ugz8uQndmGC_q3wiF7d4AaABAg",
+      "text": "Aiml/data scientist   mai career fresher btech students ko jobs milta hai?",
+      "intent": "question",
+      "topic": "career advice",
+      "subtopic": "job prospects",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "UgwSj9jjeY3ufAg17zB4AaABAg",
+      "text": "Mai abhi class 11th me hu as a PCM student kya mai bhi start kar du?",
+      "intent": "question",
+      "topic": "education guidance",
+      "subtopic": "starting early",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugy0OTls1yjvYh_bTOh4AaABAg",
+      "text": "Bhaiya i just finished my BCA degree now I'm planning to take java full stack course in bengluru  6 months course and I'm following your DSA playlist also if i follow your AI engineer course is it good idea? I will take course on morning and in evening i will do your AI course.\n\nBhaiya please tell as I'm doing java full stack should i follow this playlist or not?\n\nIf yes please give any tips bhaiya \n\nI'm currently doing DSA your playlist+ java full stack for 6 months",
+      "intent": "question",
+      "topic": "course recommendation",
+      "subtopic": "ai engineer course",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgwV0w8_LQNrgRibYdx4AaABAg",
+      "text": "Is this series enough to be an ai engineer?",
+      "intent": "question",
+      "topic": "course adequacy",
+      "subtopic": "series sufficiency",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "explicit_request": false
+    },
+    {
+      "id": "Ugx4y6JLkz_QYL4dEIZ4AaABAg",
+      "text": "Sir kab tak ye wala course lauch kar denge \ncourse iss liye bol rahe hai sir kyuki 80 percent jaha se hum kuch bhi padhe hai wo free tha lekin content aapke jaise nhi de paaya \nexample mein DSA jaise ki mereko striver ka video se samajh nhi aata hai wo mera glti nhi hai sir lekin mereko samajh mein hi nhi aata hai to kya kare sir hum\nto hum aapka video dekhe ache se samajh aane laga question banne laga \nissi liye course bole sir kyuki humko pata hai ki aap free mein video nhi ek acha level ka course laake denge sir \ni love you sir \nsir sirf data bata dijiye kab tak lauch karenge sir aap course ye AI wala sir",
+      "intent": "content_request",
+      "topic": "course launch",
+      "subtopic": "release date",
+      "sentiment": "positive",
+      "urgency": "high",
+      "explicit_request": true
+    },
+    {
+      "id": "UgyAj3ro7ICOL5Xp_Wx4AaABAg",
+      "text": "Berojgar",
+      "intent": "other",
+      "topic": "employment status",
+      "subtopic": "unemployment",
+      "sentiment": "negative",
+      "urgency": "low",
+      "explicit_request": false
+    }
+  ]
+}

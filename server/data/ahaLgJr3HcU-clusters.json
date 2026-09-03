@@ -1,0 +1,1643 @@
+{
+  "videoId": "ahaLgJr3HcU",
+  "clusteredAt": "2026-09-02T20:43:23.037Z",
+  "classifiedAt": "2026-09-02T18:03:49.291Z",
+  "summarized": [
+    {
+      "topic": "appreciation",
+      "size": 21,
+      "representativeComments": [
+        "Thank you, bhaiya! I accidentally came across your channel a few days ago, and I regret not finding it earlier. I'll definitely follow this AI  series and keep improving. Thank you for sharing such valuable knowledge!",
+        "Thank you so much for this sir !! Your advices & tutorials are really good & really easy to learn & grasp concepts quickly !",
+        "bhaiya..thanks a lot...for u first one who actually tell what type of Ai engineer actually is..<3 :)",
+        "Thank you bhaiya new subscriber, and i am a complete beginner,will follow you from start on this ✨🌸",
+        "Really looking forward to this and the fact that you are giving it out for free.. salute to you"
+      ],
+      "intentBreakdown": {
+        "content_request": 0,
+        "question": 0,
+        "agree_validate": 0,
+        "share_experience": 0,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 21,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 21,
+        "neutral": 0,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 21,
+        "medium": 0,
+        "high": 0
+      },
+      "dominantIntent": "praise",
+      "dominantSentiment": "positive",
+      "averageUrgency": 1,
+      "themeLabel": "Gratitude and Praise",
+      "themeDescription": "Viewers repeatedly thank and praise the creator for his free tutorials, dedication, and mentorship, expressing excitement and admiration.",
+      "explicitRequestCount": 0,
+      "isUnknownTopic": false,
+      "requestBreakdown": null
+    },
+    {
+      "topic": "course content",
+      "size": 7,
+      "representativeComments": [
+        "Bhaiya 2 doubt the bs:-\n1) Mera august me 4th yr start hone wala hai so kya late ni ho jaega ab?\n2) Agentic Workflow isme sikhaenge kya (langGraph)?",
+        "Hi Bhaiya,\nKya Aap popular Reference book \"Ai Engineering by Chip Huyen\" ke concepts cover karenge. iss course mai??",
+        "Bhaiya kya isme aap python ya typescript bhi phadyenge?",
+        "will we cover langchain and langgraph in this???",
+        "Bhaiya web dev ka liye AI start kr rha ho kya"
+      ],
+      "intentBreakdown": {
+        "content_request": 0,
+        "question": 7,
+        "agree_validate": 0,
+        "share_experience": 0,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 0,
+        "neutral": 7,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 0,
+        "medium": 7,
+        "high": 0
+      },
+      "dominantIntent": "question",
+      "dominantSentiment": "neutral",
+      "averageUrgency": 2,
+      "themeLabel": "Course Content Inquiries",
+      "themeDescription": "Viewers are asking whether the course will cover specific references, programming languages, frameworks like LangChain/LangGraph, and the overall scope of generative AI topics.",
+      "explicitRequestCount": 0,
+      "isUnknownTopic": false,
+      "requestBreakdown": [
+        {
+          "label": "Course Scope Clarification",
+          "count": 2
+        },
+        {
+          "label": "Specific Tool Coverage Request",
+          "count": 2
+        },
+        {
+          "label": "Reference Book Coverage Request",
+          "count": 1
+        },
+        {
+          "label": "Programming Language Coverage",
+          "count": 1
+        },
+        {
+          "label": "Ai for Web Development Inquiry",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "career advice",
+      "size": 6,
+      "representativeComments": [
+        "Bhaiya web development ya ai engeneering mein se kon si field ke liye padhna chahiye achi job ke liye? Abhi currently aapki dsa series follow kr rha hu for preparation please help",
+        "Pratyush bhai btech cse 2024 passout hu\n4 month job ki fir layoff \nAbhi June 2026 tak unemployed hu.  Job interview diye kisi me select nhi hua  boht dikkat hai guide krdo please",
+        "bro im working in ey as a l2 support engineer for gen ai i have knowledge on Fundamental levels but the depth is missing as you've mentioned. want to be a full fledged ai engineer , ofcourse the target is faang i want to ask i should i integrate these knowledge skills ups with dsa in python as quick as possible so that i can atleast appear in interviews. no rush btw im still a fresher exp around 9 months",
+        "Aiml/data scientist   mai career fresher btech students ko jobs milta hai?",
+        "to become ai eng do i need  to learn whole sde stack? like react  django"
+      ],
+      "intentBreakdown": {
+        "content_request": 0,
+        "question": 4,
+        "agree_validate": 0,
+        "share_experience": 2,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 1,
+        "neutral": 4,
+        "negative": 1
+      },
+      "urgencyBreakdown": {
+        "low": 1,
+        "medium": 3,
+        "high": 2
+      },
+      "dominantIntent": "question",
+      "dominantSentiment": "neutral",
+      "averageUrgency": 2.17,
+      "themeLabel": "Ai Career Guidance",
+      "themeDescription": "Commenters are seeking advice on choosing tech fields, skill development, and job prospects, especially around AI, web development, and data science, as they transition from fresh graduate status or early roles.",
+      "explicitRequestCount": 2,
+      "isUnknownTopic": false,
+      "requestBreakdown": [
+        {
+          "label": "Job Switching Advice",
+          "count": 1
+        },
+        {
+          "label": "Field Selection Guidance",
+          "count": 1
+        },
+        {
+          "label": "Job Search Strategy",
+          "count": 1
+        },
+        {
+          "label": "Ai Engineer Learning Roadmap",
+          "count": 1
+        },
+        {
+          "label": "Required Sde Stack Clarification",
+          "count": 1
+        },
+        {
+          "label": "Ai/ml Career Prospects",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "course schedule",
+      "size": 6,
+      "representativeComments": [
+        "Sir final year student and on campus placements starts from september....sir plss finish this course before september😅❤",
+        "bhaiya when will it be started  ? because as semester is about to start i am in 4th year ...placement season is starting so i can plan accordingly.",
+        "Bhaiya kab start hoga course",
+        "bhaiya kab start hoga",
+        "Sir DSA kab end hoga"
+      ],
+      "intentBreakdown": {
+        "content_request": 1,
+        "question": 5,
+        "agree_validate": 0,
+        "share_experience": 0,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 1,
+        "neutral": 5,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 0,
+        "medium": 5,
+        "high": 1
+      },
+      "dominantIntent": "question",
+      "dominantSentiment": "neutral",
+      "averageUrgency": 2.17,
+      "themeLabel": "Course Timing Inquiries",
+      "themeDescription": "Students repeatedly asking when the course will begin or finish, often linking it to semester start and placement timelines.",
+      "explicitRequestCount": 1,
+      "isUnknownTopic": false,
+      "requestBreakdown": [
+        {
+          "label": "Course Start Date Request",
+          "count": 4
+        },
+        {
+          "label": "Course End Date Request",
+          "count": 1
+        },
+        {
+          "label": "Completion Before Deadline",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "unknown",
+      "size": 6,
+      "representativeComments": [
+        "Bhaiya kya ye course agar ache se follow kro to kya AI interviews (roles) ke liye enough rhgega kya ??😊 bs etha bta dijiye",
+        "Sab app pai Chor raha hun \nDsa toh apne krwa Diya \nAb please ai v master krwa do \n\n🙏🏿🙏🏿🫶🫶🫶🫶",
+        "DSA kab complete hone ka chance hai, please reply.",
+        "Bhaiya diploma mechnical hu mera kya hoga",
+        "Not able to create account on GROQ"
+      ],
+      "intentBreakdown": {
+        "content_request": 0,
+        "question": 0,
+        "agree_validate": 0,
+        "share_experience": 0,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 6
+      },
+      "sentimentBreakdown": {
+        "positive": 0,
+        "neutral": 6,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 6,
+        "medium": 0,
+        "high": 0
+      },
+      "dominantIntent": "other",
+      "dominantSentiment": "neutral",
+      "averageUrgency": 1,
+      "themeLabel": "Uncategorized",
+      "themeDescription": "Comments where the classification model could not determine a specific topic. May include low-context remarks, very short replies, or off-topic chatter.",
+      "explicitRequestCount": 0,
+      "isUnknownTopic": true,
+      "requestBreakdown": null
+    },
+    {
+      "topic": "content schedule",
+      "size": 4,
+      "representativeComments": [
+        "Bhaiya thankyou , sala smjh hi nhi aarha tha web dev karra hu fomo hora tha, backend padh rha abhi , thodi bohot iski knowledge hojaegi to char chand lag jaenge , final year start hora ab to bhaiya jaldi hi start kardijiyega .",
+        "Hello Bhaiya🙏 Please iss AI Course ke videos consistent banate rehena!! Hamari bohot help hogi!! Thank you 🙏",
+        "bhai yar jaldi shuru karo please or roj video upload kerna he",
+        "kab se chaloo karoge bade bhai ?"
+      ],
+      "intentBreakdown": {
+        "content_request": 3,
+        "question": 1,
+        "agree_validate": 0,
+        "share_experience": 0,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 2,
+        "neutral": 2,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 0,
+        "medium": 1,
+        "high": 3
+      },
+      "dominantIntent": "content_request",
+      "dominantSentiment": "positive",
+      "averageUrgency": 2.75,
+      "themeLabel": "Requests for Consistent Uploads",
+      "themeDescription": "Viewers are urging the creator to begin the AI course series promptly and maintain a regular, frequent posting schedule.",
+      "explicitRequestCount": 4,
+      "isUnknownTopic": false,
+      "requestBreakdown": [
+        {
+          "label": "Consistent Upload Schedule",
+          "count": 1
+        },
+        {
+          "label": "Daily Video Uploads",
+          "count": 1
+        },
+        {
+          "label": "Earlier Course Start",
+          "count": 1
+        },
+        {
+          "label": "Start Date Information",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "content request",
+      "size": 4,
+      "representativeComments": [
+        "Bhai jo v kahe log ..aur tm kadwi bolte ho but sach bolte ho..aur tum se bahut umeed hai piyush bhai..pls bana do bhai.AI engineer..aur aise hi sachai batate jao..ho k log jhut ka phobia banata hai apna views k liye...",
+        "Bhaiya aap please aptitude ka solution digiye yaa fir aap hi video bna do uspe please",
+        "Bhaiya pls make video on mern projects...it will be very helpful",
+        "I really want it"
+      ],
+      "intentBreakdown": {
+        "content_request": 4,
+        "question": 0,
+        "agree_validate": 0,
+        "share_experience": 0,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 2,
+        "neutral": 2,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 1,
+        "medium": 0,
+        "high": 3
+      },
+      "dominantIntent": "content_request",
+      "dominantSentiment": "positive",
+      "averageUrgency": 2.5,
+      "themeLabel": "Video Content Requests",
+      "themeDescription": "Viewers are asking the creator to produce specific tutorial videos, such as aptitude solutions, MERN projects, and AI engineering content.",
+      "explicitRequestCount": 3,
+      "isUnknownTopic": false,
+      "requestBreakdown": [
+        {
+          "label": "Aptitude Solution Video",
+          "count": 1
+        },
+        {
+          "label": "Mern Projects Tutorial",
+          "count": 1
+        },
+        {
+          "label": "Ai Engineer Tutorial",
+          "count": 1
+        },
+        {
+          "label": "General Content Request",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "progress update",
+      "size": 4,
+      "representativeComments": [
+        "I m starting this today day 1",
+        "Hum liye the khatam kiye",
+        "Started today 🎉",
+        "completed"
+      ],
+      "intentBreakdown": {
+        "content_request": 0,
+        "question": 0,
+        "agree_validate": 0,
+        "share_experience": 4,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 4,
+        "medium": 0,
+        "high": 0
+      },
+      "dominantIntent": "share_experience",
+      "dominantSentiment": "positive",
+      "averageUrgency": 1,
+      "themeLabel": "Progress Milestones",
+      "themeDescription": "Viewers posting brief updates about beginning or finishing a task, ranging from day‑one starts to completed work.",
+      "explicitRequestCount": 0,
+      "isUnknownTopic": false,
+      "requestBreakdown": null
+    },
+    {
+      "topic": "series excitement",
+      "size": 3,
+      "representativeComments": [
+        "Excited for this bhaiyya surely  follow this along with your DSA series",
+        "Will follow this along 😊 so excited 🎉",
+        "Really excited for this series"
+      ],
+      "intentBreakdown": {
+        "content_request": 0,
+        "question": 0,
+        "agree_validate": 3,
+        "share_experience": 0,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 3,
+        "medium": 0,
+        "high": 0
+      },
+      "dominantIntent": "agree_validate",
+      "dominantSentiment": "positive",
+      "averageUrgency": 1,
+      "themeLabel": "Series Excitement",
+      "themeDescription": "Viewers are expressing strong enthusiasm and anticipation for the upcoming series, indicating they plan to follow it closely.",
+      "explicitRequestCount": 0,
+      "isUnknownTopic": false,
+      "requestBreakdown": null
+    },
+    {
+      "topic": "career guidance",
+      "size": 3,
+      "representativeComments": [
+        "bhaiya 3rd year btech cs student hoon, what domain should I choose ? Kese pata karu kisme interest hai ? Pls guide me",
+        "ye bahiya tani ye bhi smjha sijeyega kha kha apply kre iske baad aur kyse company clear kre",
+        "Collage 2nd Year\nConfsion yhi tha ki AI engineer means openai jaisi companies me direct but but ab samjh aaya \nReady to follow you boss"
+      ],
+      "intentBreakdown": {
+        "content_request": 0,
+        "question": 2,
+        "agree_validate": 0,
+        "share_experience": 1,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 0,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 1,
+        "neutral": 2,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 1,
+        "medium": 0,
+        "high": 2
+      },
+      "dominantIntent": "question",
+      "dominantSentiment": "neutral",
+      "averageUrgency": 2.33,
+      "themeLabel": "Student Career Guidance",
+      "themeDescription": "Students are asking for advice on selecting technology domains, understanding AI engineering roles, and where to apply after their studies.",
+      "explicitRequestCount": 2,
+      "isUnknownTopic": false,
+      "requestBreakdown": null
+    },
+    {
+      "topic": "appreciation note",
+      "size": 3,
+      "representativeComments": [
+        "Bhaiya I'm following you with consistency from one month and love the approach of your teaching ,and getting confidence in DSA just because of you ,thanks for your precious time you are investing for our betterment ,I'm ready to give my 100% 🥰",
+        "teaching freely for what IITian taking 1 lac around ....good work i was looking for this course",
+        "Thanks bhaiya ❤"
+      ],
+      "intentBreakdown": {
+        "content_request": 0,
+        "question": 0,
+        "agree_validate": 0,
+        "share_experience": 0,
+        "disagree_debate": 0,
+        "confusion": 0,
+        "praise": 3,
+        "other": 0
+      },
+      "sentimentBreakdown": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 0
+      },
+      "urgencyBreakdown": {
+        "low": 3,
+        "medium": 0,
+        "high": 0
+      },
+      "dominantIntent": "praise",
+      "dominantSentiment": "positive",
+      "averageUrgency": 1,
+      "themeLabel": "Gratitude for Free Teaching",
+      "themeDescription": "Viewers expressing thanks and admiration for the creator's generous, confidence‑building teaching style and free educational content.",
+      "explicitRequestCount": 0,
+      "isUnknownTopic": false,
+      "requestBreakdown": null
+    }
+  ],
+  "tail": [
+    {
+      "topic": "video schedule",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Final Year walon ke liye aap bnarhe ho toh bhaiya kya aap regular basis pe video upload kroge? Kyunki final year pe hame already kaafi kam time rehta hai\nand Thanks for doing this at the exact time period!!",
+        "Plz start it sooner🙏😭"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "creator appreciation",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Bhai Alakh pandey sir ko aap jante ho hoge woh v zero level k students ko lekar chala ekdum complete kerwate gya aapke jaise ...aaj dekh kaha hai..waise hi aap padhate ho...ek din aap v ussi maukam pa hogge bhai... complete kerwa dena bhai..",
+        "thanks bhaiya ....you are one of the most genuine creators out there......one of your oldest subscribers"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "learning progress",
+      "size": 2,
+      "sampleCommentTexts": [
+        "I really enjoy learning from you. Earlier, I couldn't solve even a single DSA problem, but now—after learning the patterns from you—I can easily solve 3 to 4 of them. And now, I'm looking forward to enjoying AI/ML as well.",
+        "University student \nLearning Mern stack"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course feedback",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Bahut sahi bhaiya ji ❤❤ me appka dsa follow jr rha hu mene bahut logo se pta par apse pad ke smj aya ki padne ke tarike bahut mayne rakta h me jarur ai wale course deku ga or build own ai wala project bhi bnauga sik ke aapsw 😅❤❤love from tier 3 clg ❤",
+        "Thank You Brother Got to know about u few months back Already started your dsa series and really excited for this one as well Thanks a lot for all your efforts you are really a gem"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "ai course",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Waiting for new AI course, As i already following you DSA Pattern course \nI'd say confidently this course will be bestest best course ever",
+        "SIR WHEN YOU WILL  START THIS AI COURSE COURSE FROM SCRATCH RAG LLM LANGCHAIN VETORDB  AND AI CONCEPT WITH PROJECT"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "system design",
+      "size": 2,
+      "sampleCommentTexts": [
+        "bhai please system design ki series bhi bana do",
+        "bhai dsa series follow kar raha hu too good 2 saal dsa bandh chalu karne ke baad finally kuch aage bada.\nsystem design kaha se prepare kana hai bata do plz"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "future content",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Bhiya daily study videos like apke DSA series type AI me kab se aane lagega..",
+        "Bro video lab ay gi ?😊"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course release",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Thanks bro actually I’m going to move out from india in masters degree for Ai and hpc but right now i don’t have decent skills and coding languages i tried but every time failed i know python a bit so please release this course as soon as possible",
+        "Bhaiya course kbse ayega? Aur bhaiya ek project bhi leke chliyega jisse hum end to end banayenge with deployment"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "playlist status",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Bhaiya is the DSA pattern playlist completed??? I am actually following that playlist currently thats why I am asking, alongside I will be following this series also. Thank you",
+        "is the dsa playlist completed??"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course value",
+      "size": 2,
+      "sampleCommentTexts": [
+        "You are doing a great job, I want to ask you a question, I have basic knowledge of ML and DL stuff and some projects using neural networks, so how this course will uplift my knowlegde ?? like will it add more value to my current learning and will you teach in a project based method ?",
+        "Agar pratyush bhai padha rahe hai to poore internet se alag aur hatke hone ki guarantee hai.. aur ek baat ki yahi same course jo yaha free mein mil rha hai vo bahar 8-10K mein hai.."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course recommendation",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Bhaiya i just finished my BCA degree now I'm planning to take java full stack course in bengluru  6 months course and I'm following your DSA playlist also if i follow your AI engineer course is it good idea? I will take course on morning and in evening i will do your AI course.\n\nBhaiya please tell as I'm doing java full stack should i follow this playlist or not?\n\nIf yes please give any tips bhaiya \n\nI'm currently doing DSA your playlist+ java full stack for 6 months",
+        "Bhai data engineer padha do complete..ya phir aap advice ker do..kaun sa paid course hai with placement for data engineer pls.. suggest bhaiyaa"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course request",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Bhaiya web development ka course please",
+        "Data analyst course plz."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course enrollment",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Bhaiya as a bca student i learn dsa as well as development and I will to learn gen ai can I follow your course. ?",
+        "Ham kauno coarse nahi liye bhaiya 😅 Ai engineering ke liye"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course relevance",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Bhaiya like how important is it to learn this AI engineering course for those people whose domain is Fullstack Developer or targeting SDE roles. Like will it help in clearing interviews and all because currently the market condition is not good.",
+        "Piyush bhai being a qa Automation test engineer. Can i learn this course and does this course help me as a software tester."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "start time",
+      "size": 2,
+      "sampleCommentTexts": [
+        "When will u start?",
+        "start kab se hoga"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "prerequisite requirement",
+      "size": 2,
+      "sampleCommentTexts": [
+        "Python ani chahiye ye course ko padhne ke liye?",
+        "Python jruri chye ya uske bina kr skege course"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course adequacy",
+      "size": 2,
+      "sampleCommentTexts": [
+        "job switching k liye enough hoga ye course?",
+        "Is this series enough to be an ai engineer?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "final year",
+      "size": 1,
+      "sampleCommentTexts": [
+        "As a final year student this was much much needed; I will for sure follow this from scratch❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "dsa series",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Your DSA series is saving  so much time because everything is explained in such a clear and structured way.Thanks for putting so much effort to help students like us!"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "tech scene",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Indian youtube tech scene mai alag hi karr rahe ho bhaiyya, respect++"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "student help",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Thank You bhaiya , itna sare log baithe hei internet pe and u are the only one needed for students like us .Hats off ! jaldi dhalo hum start kardenge ."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "career relevance",
+      "size": 1,
+      "sampleCommentTexts": [
+        "is series ki sakt jarurat h, mca ka final year ausust se shuru hoga, aur august me hi company placement k liye aana shuru hoti h college me. aur ai se related role me hi jana chahta hu, \nthank you ye series lane k liye."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "release request",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Please bhaiya bring this series as soon as possible !"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "learning expectations",
+      "size": 1,
+      "sampleCommentTexts": [
+        "i hope we will learn everything that is industry relevant and I just can't wait to start the series"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "content relevance",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Very much needed, bhaiya. I follow you very much.😊"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "content appreciation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Thank you so much bhaiya ... aap jo itne mehnat se hum logo k leye content bana rahe ho...!   greatful to hava a teacher like you"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "content anticipation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Eagerly waiting bhaiya❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "lecture schedule",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Really appreciate you putting this out for free! Could you let us know when the lectures will be dropping? Can't wait to dive in 🔥"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "content frequency",
+      "size": 1,
+      "sampleCommentTexts": [
+        "ohh wow . It was much needed. thankyou sir but i request if possible please post 2 videos a day so as to complt it faster"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "content reaction",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Very excited, Bhaiya. Hope this will be helpful"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "ai series",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Thanks a lot bhaiya for starting AI series . Recently i found your dsa playlist and start learning from that and that's was amazing .Your way of teaching is awesome . I want to learn AI but not assure to learn from other courses  . I really want to learn  AI from you .Bhaiya please start this series as soon as possible .....waiting for the AI series😀"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video appreciation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Love Ur videos.❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "teacher appreciation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "fully excited to read from the best teacher i kknow ever"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "general appreciation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Finally Man !!❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "channel interaction",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Chalo kar liya subscribe pehli baar tumhara video feed mein aaya hai dekhte hai  kaisa rahega"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "ai ml content",
+      "size": 1,
+      "sampleCommentTexts": [
+        "finally @pratysuh bhaiya, mene socha tha ki kash aap AI/ML content bhi padha dete so humare liye placement full stack course ho jata jaise aapne DSA best padhaya waise aap AI/ML bhi bhot achchhe se padhayenge waiting for the series love you bhaiya ☺☺"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "ai content",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhai sahab ab dsa ke bad AI keep it up bhaiya \nReady to learn 🎉"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "support",
+      "size": 1,
+      "sampleCommentTexts": [
+        "we are always ready bhiya ."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "learning guidance",
+      "size": 1,
+      "sampleCommentTexts": [
+        "bhaiya aapne bhot acha DSA pda diya h aap thoda guide kr dijiye ki system design,sql in sab pr kitna dhyan dena h baki DSA playlist ke liye dil se thank u ❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course combo",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Combining this course with Chip Huyen's AI Engineering. Let's hope for the best.\nAmen!"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "live session",
+      "size": 1,
+      "sampleCommentTexts": [
+        "BHAIYA DSA SERIES KE BAAD KYA EK LIVE RAKHOGE 😊"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "creator praise",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Stay on your words bro. I subscribed you"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "learning request",
+      "size": 1,
+      "sampleCommentTexts": [
+        "would love to learn from you Man"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "content feedback",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Another Hacker Series , great bhaiya"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "gratitude",
+      "size": 1,
+      "sampleCommentTexts": [
+        "thank you for considering BCA and MCA students also"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "ai engineering",
+      "size": 1,
+      "sampleCommentTexts": [
+        "glad i found your channel and learning dsa for now , but for development if you are going to teach ai engineer then please do it i really need it i am so confused now to what to learn in development but now if you are teaching ai engineering then i will be consistent to it and learn along  , pleasse start this series and also provide your sheet for roadmap including modules \nand last thank you"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course anticipation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "College last year student. Looking forward to your course"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "series start",
+      "size": 1,
+      "sampleCommentTexts": [
+        "when this will start plz start as soon as possible sir.love the way uhh teach....its my final year...n companies are coming"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video segment",
+      "size": 1,
+      "sampleCommentTexts": [
+        "2:46 Baad m dhek lenga badhiya tha 😂😂"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "project videos",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhayya ..aaap please ... projects vale videos banayie aapke vaale really unique hothe haii... please banayiye"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "project based",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Jaldi start Karo bro sirf projects based try kr na ❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "dsa timeline",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya Dsa ke remaining topics kab tak khtm karaoge? Btw I am forever grateful for the dsa series ❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "topic list",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bahiya bas ek day wise topic list de dijiye"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "release timing",
+      "size": 1,
+      "sampleCommentTexts": [
+        "When it’s starting? Is it mentioned in the video.. did I miss it? Btw excited for this series"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course wait",
+      "size": 1,
+      "sampleCommentTexts": [
+        "waiting for this course"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "prerequisite info",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Pratyush bhai, please prerequisites bhi bata dijiye iska"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "commitment",
+      "size": 1,
+      "sampleCommentTexts": [
+        "I''' ll follow this I'll be dedicated"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video status",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Waiting"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "dsa tutorial",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya dsa ke liye aage bta do aur kuch please"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "ai roadmap",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Sir ai road map bhi bta dete"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "excitement",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Less Gooo 🎉"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "anticipation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "abb ayegaa mjaaa"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video length",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Sir ek pura 20 hrs ka video upload kardo , ek ek video upload karne se acha 😅"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "upload schedule",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Sir, I wanted to know when will you start uploading videos?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "personal impact",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya, aap mere life saviour ho thank you bhaiya....aapka video pataa nhi kaise bhagwaan kripa se aa gya mere Insta feed pe, Nov 2025 mein, DSA Patterns ko leke...sabko free mein padhaa ke DSA save kar liya aapne humaara.\nEk request h...although you won't agree with me probably..if you want to teach for AI roles, you can launch its course for Rupees 150 (not costly) something...because itna aap deserve karte ho apne mehant aur time investment kaa...so that only serious people watch it..and that too seriously...that will avoid distractions also...baaki aapki marzi aap jahaan bhi padhaana chaahte hain. Thanks a lot.😉❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "agentic ai",
+      "size": 1,
+      "sampleCommentTexts": [
+        "bhai goal Agentic AI... please...from bangladesh....full dsa serially follow kar raha huu"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video uploads",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiyaa placement season start hoga august se \nRegularly video upload karna please 🥺"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "mern stack",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya please MERN stack and nextjs pe unique projects de dijiye."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "web development",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Sir aap web development pdao apka version b chahiye dsa best tha ab web dev"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course completion",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Finished Andrew Ng"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "learning path",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Thankyou bhaiya second year start hoga aug mein DSA + ai series shi rhega ya iskliye pehele full stack bhi zruri hota h"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "resource recommendation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "I know now that you deliver the study content in best way, I just want to know which resources are you personally following"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "college student",
+      "size": 1,
+      "sampleCommentTexts": [
+        "college last year student"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "start date",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Kab se shuru ❤❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "dsa help",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Please dsa ke liye guide kardo bahut confusing hoti hai baar baar switch krta hu dikkat hoti h"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "dsa problem",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya ek problem ho rahi hai dsa solve karne me ,  function likhte nahi ban rhe jese vector ka function bana raha to push kese kru ... Esi silly silly problem aarhi...\n\nPlease help me , kya kru ...\nPlease bhaiya pls help"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "internship advice",
+      "size": 1,
+      "sampleCommentTexts": [
+        "i have covered Machine learning , and built projects but not able to get internships"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video consistency",
+      "size": 1,
+      "sampleCommentTexts": [
+        "aapse sirf 2 promise chahiye:\r\n1. aap consistent rahenge videos k saath\r\n2. ekdm demo code videos anhi banaenge. Please aisa code banaye jo actually industry mein use ho. NO langchain toy problem."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "free course",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiyaa free course krna ❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "sql tutorial",
+      "size": 1,
+      "sampleCommentTexts": [
+        "SQL BHI PARHA DO SIR"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "interview preparation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "If interviewers will ask some questions based on Mathematics, then at instant the candidate fail."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "teaching method",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Sbse bara issue h theory sb prha rha pr project based learning nhi h bhaiyaaa"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "acknowledgement",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Ok"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "project guidance",
+      "size": 1,
+      "sampleCommentTexts": [
+        "actually i'm doing a course provided by our college the main problem is project i dont know where to start and build a project that will help me the instructor in that course shows the project that he has build shows the flow but never guided how and what to do as a beginner its tuf f"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "llm evals",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Sir aap llm evals bhi karayenge kya?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "project help",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaia project ke help se seekhayega please"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "humor comment",
+      "size": 1,
+      "sampleCommentTexts": [
+        "bhaiya background tv me dekho 😂😂"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "daily log",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Today i have started 19 july 2026 Day 1 Sunday."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "academic status",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Pre final year"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course guidance",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya maine ese baar NSUT Delhi me mtech in IT mai admission liya hai ... Kafi confused tha ki kya kya aur kaise kru ..but ab se apka dsa + AI dono course ki bdhiya se krunga ... Koi suggestion ho toh please bta dijiye as a mtech student... Gate mai number km aa gye the 😢"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "timeline request",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya jaisa ki aapne likha h 8 weeks please 2-4 week se jyada uper niche mt kriyega kyunki mai abhi final yr me hu to mujhe sikh k project v banana h mai agar 3 month me complete ho jayega to iske 1 project bna k ache se interview m confident hoke baith paunga"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course scheduling",
+      "size": 1,
+      "sampleCommentTexts": [
+        "hello, bhai mai abhi dsa series dekh rha hun toh kya mughe sath me parallel me ye ai course dekh sakta hunn kya"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "learning scope",
+      "size": 1,
+      "sampleCommentTexts": [
+        "only one question kya merko aap utna sikha doge ki mai interview mein sbka jawab de pau? like everything?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "career expectations",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Aap abhi kis stage par ho-college\r\n2. AI Engineer ke baare mein aapka sabse bada confusion h what the company demands from fresher for this roles, how much depth required"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "schedule",
+      "size": 1,
+      "sampleCommentTexts": [
+        "bhaiya kabse start ho ga ?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "teaching request",
+      "size": 1,
+      "sampleCommentTexts": [
+        "bhaiya aap bas padhao. aap jo padhaoge me sab padhuga"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "education",
+      "size": 1,
+      "sampleCommentTexts": [
+        "MTech"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video usefulness",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhayea mere company me automation ka kaam hone wala hai ye video helpful hoga automation bnane ke liyea"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "revision help",
+      "size": 1,
+      "sampleCommentTexts": [
+        "hello bhaiya abhi Btech cse ai ml me hu 5th semester............. Mai aapka dsa pattern wise dekh rha hu jo merko bht help kr rha hai mai dsa solv kr rha hu , logic dheere dheere build ho rha hai but mai ye nhi samjh paa rha hu ki revision kaise karu pattern's ka karu y question's ka ............ bhaiya aap merko help kr dijiye mujhe samjh nhi aa rha hai ........ ek video y comment kr dijiye mai kaise karu .............. aap guide ke dijiye"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "prerequisite knowledge",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiyaa ye series start karnese pehle mujhe python sikhna padega ya mei seedha ye series start kar sakta huu ?? please batao 🙏"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "paid content",
+      "size": 1,
+      "sampleCommentTexts": [
+        "paid hi le aao  we can pay but quality must be top notch"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "python tutorial",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya please in python please"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "hardware requirements",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhaiya.... \nAi ke liye kitne specs ka laptop chaiye....\nKya graphics card walla laptop jaruri haiii...???"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "ai learning",
+      "size": 1,
+      "sampleCommentTexts": [
+        "bhaiya \n\ncollege mai hu aur\n\nbegineer hu ai mai 🙂 please help"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "learning resources",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Please read this comment.....\nbhaiya mein complete beginner hun dsa ke liye to mujhe apki ye playlist dekhne ke liye kis kis cheez ko padana padega.....mera level yahi hai ke mein bas basic syntax janta hun cpp ke..."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video feedback",
+      "size": 1,
+      "sampleCommentTexts": [
+        "hahhahahha. great starting"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video release",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Kab se aaega bhaiya video any idea approx"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "dsa guidance",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhai dsa kar rhe hai apka day 20 pe hu, to ye pdhe ya dsa? 2nd year me hu"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "video content",
+      "size": 1,
+      "sampleCommentTexts": [
+        "coffee wala bhi nhi laegega🥲"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "self introduction",
+      "size": 1,
+      "sampleCommentTexts": [
+        "BCA Student 3rd year college."
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "coding start",
+      "size": 1,
+      "sampleCommentTexts": [
+        "I want to start coding... How to start  ?? 0 knowledge in this feild please guide me"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "learning eligibility",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Jiske paas CS degree nahi hai, kya wo ye sab seekh sakta hai?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "resume advice",
+      "size": 1,
+      "sampleCommentTexts": [
+        "agr resume mei ai se related certificates daalne ho to kaha se daal skte hai?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "career transition",
+      "size": 1,
+      "sampleCommentTexts": [
+        "As btech mechanical background 25 year passout willing to switch in it koi tips bhai"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course suitability",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Hi Sir, I'm from outside India. Is this course suitable for getting both remote jobs and local jobs in my country?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "study plan",
+      "size": 1,
+      "sampleCommentTexts": [
+        "currently, I completed my 1st year and also completed my PRIME AIML Batch from apna college ,\nnow I am ready to REVISE ALL THE CONCEPT WITH WITH VIDEOS...😋"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "language requirement",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Isme language python bhi chaiye ya java mai bhi kar sakte hai"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "llm learning",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Without maths how llm learning possible?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "personal appreciation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "God sent him for me 🤍"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "coding progress",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Coding abhi thik ho gya h"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "capstone project",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Vaiya i am following ur dsa... it is best..... just one question... which project u r going to make as a capstone?  Plz reply❤❤❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course start",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhai kab se shuru hoga ye course"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "content coverage",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Do you tech agentic ai❤"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course status",
+      "size": 1,
+      "sampleCommentTexts": [
+        "bhaiya dsa course khatam hogaya kya ab?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "career planning",
+      "size": 1,
+      "sampleCommentTexts": [
+        "I am on the job switching stage nd want to make my next move in AI Roles -  AI Enginner, Prompt Engineer, Vibe Coder.. what after this course ?? from where to and what to and how to ??"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "internship prospects",
+      "size": 1,
+      "sampleCommentTexts": [
+        "i want to crack an intern as an ai engineer. is it possible with this course"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "pricing info",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Free  hoga or ya  Paid  hoga bhaiya ?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "study motivation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhai, me third year ke starting phase me hu. Aaj se padhana chalu kar raha hu, me aap par bharosa karta hu ki aapki ye playlist complete karne ke baad me bahut confidence mahadus karuga. \nChallenge accepted \n16/07/2026"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "playlist schedule",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Bhai dsa ka playlist kb tk khatam hoga"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course prerequisites",
+      "size": 1,
+      "sampleCommentTexts": [
+        "What are the perquisites required to start this series ?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "hardware recommendation",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Which laptop should i buy for this"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course cost",
+      "size": 1,
+      "sampleCommentTexts": [
+        "is the course free"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "openai credit",
+      "size": 1,
+      "sampleCommentTexts": [
+        "maine 5 dollar credit kr liya bhaiya open ai me is playlist se job leke msg krunga ek cmnt bs krdena🙏🙏"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course suggestion",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Lets go!! Finally agya bhai\nEk suggestion hai bs, obviously kr hi rahe honge aap ye but, jo bhi job descriptions mein skill chahiye rehti hai when it comes to AI Engineer or vahi 15-20 buzzword related roles, vo sab cover hojega taaki most of the job roles ke liye prepare hojaye from memory to MCP to AGENTIC AI to LLM evals and what not, there is nothing structred out there, like courses hai but end to end shit kahi nahi hai, ofc banana usko is very difficult but Ye ML vala part ko side rakh ke agar AI aur AI Engineer pe aaye toh it's mostly Backend or other Software engineering+ Integrating AI all of it and making the product of company AI first, uske liye tyaar krva dena. Also I've came to the realisation ki development aur domain ke maamle mein jo fresher se pehle expect krte thay ab usse kayi zyada krte hai so please usi level ka padhana ki thoda advance ho bhi Jaye dikkat nahi but kaam aaye, zyada ata ho kam na ata ho.\nThat's all I had to say! Gonna follow this religiously!! All the best"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "intro video",
+      "size": 1,
+      "sampleCommentTexts": [
+        "bhaiya jitna pata hai aap padh rahe h toh aap ofcourse decide kar liye honge kaise kaise padhna hai or aap kaha se padhenge, toh please aiml series se pahle ek introduction video bana dijiyega jisme aap samjha denge pura study flow, kis type se iss series ko follow kare and how to think, q ki thinking bohot major part hoga kisi v chiz ko sikhne ka"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "education guidance",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Mai abhi class 11th me hu as a PCM student kya mai bhi start kar du?"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "course launch",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Sir kab tak ye wala course lauch kar denge \ncourse iss liye bol rahe hai sir kyuki 80 percent jaha se hum kuch bhi padhe hai wo free tha lekin content aapke jaise nhi de paaya \nexample mein DSA jaise ki mereko striver ka video se samajh nhi aata hai wo mera glti nhi hai sir lekin mereko samajh mein hi nhi aata hai to kya kare sir hum\nto hum aapka video dekhe ache se samajh aane laga question banne laga \nissi liye course bole sir kyuki humko pata hai ki aap free mein video nhi ek acha level ka course laake denge sir \ni love you sir \nsir sirf data bata dijiye kab tak lauch karenge sir aap course ye AI wala sir"
+      ],
+      "isUnknownTopic": false
+    },
+    {
+      "topic": "employment status",
+      "size": 1,
+      "sampleCommentTexts": [
+        "Berojgar"
+      ],
+      "isUnknownTopic": false
+    }
+  ]
+}
