@@ -7,7 +7,7 @@ import type {
   Urgency,
 } from './types';
 
-const LLM_PROVIDER = (process.env.LLM_PROVIDER ?? 'nvidia').toLowerCase();
+const LLM_PROVIDER = (process.env.LLM_PROVIDER ?? 'groq').toLowerCase();
 console.log(`[classifyComments] LLM_PROVIDER=${LLM_PROVIDER}`);
 const chatJSON: typeof groqChatJSON =
   LLM_PROVIDER === 'groq' ? groqChatJSON : nvidiaChatJSON;

@@ -15,6 +15,7 @@ import { AnalysisProvider } from './state/AnalysisContext';
 import { AgentProvider } from './state/AgentContext';
 import { registerTools } from './webmcp/registerTools';
 import './index.css';
+import './App.css';
 
 registerTools();
 

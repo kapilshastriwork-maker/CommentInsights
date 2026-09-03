@@ -875,3 +875,69 @@ The cached data for `ahaLgJr3HcU` (videoId, 222 comments classified, 11 clusters
 - Animation polish beyond what's specified (no skeleton loaders, no page-transition fades).
 
 **Phase 8 status: `[x]`** — visual design pass complete. Ready to ship.
+
+### 2026-09-03 06:00 UTC — Phase 11 [x]: NVIDIA NIM dead, switched default to Groq
+
+**Symptom (production)**: On Render, `openai/gpt-oss-120b` on NVIDIA NIM was returning **HTTP 410 Gone** on every call. Same pattern as the earlier `meta/llama-3.3-70b-instruct` decommission. `detectContentGaps` silently caught the 410 (line 130-135 of `contentGaps.ts`) and returned `[]` — meaning the live demo's Gaps screen would show "0 content gaps" on every video, not because the model judged none, but because the call never returned a judgment. Same silent-failure pattern affects `classifyComments` and `clusterComments` but with less user-visible fallout (fallback to `intent=other`).
+
+**Verified locally before the switch**: 3 consecutive probes over ~3 minutes all returned 410 with the model still listed as available on the NVIDIA NIM catalog (https://docs.api.nvidia.com/nim/reference/llm-apis lists it as live). Likely a per-account/per-key access change or backend capacity issue specific to this model — but consistent enough that we cannot rely on it for the live demo.
+
+**Fix (5 sites, 1-line each)**:
+- `server/src/pipeline/classifyComments.ts:10` — `?? 'nvidia'` → `?? 'groq'`
+- `server/src/pipeline/clusterComments.ts:14` — `?? 'nvidia'` → `?? 'groq'`
+- `server/src/pipeline/contentGaps.ts:38` — `?? 'nvidia'` → `?? 'groq'`
+- `server/src/routes/testClassify.ts:52` — `?? 'nvidia'` → `?? 'groq'`
+- `.env.example` — `LLM_PROVIDER=nvidia` → `LLM_PROVIDER=groq`, reordered required-keys section so `GROQ_API_KEY` is documented as the now-default-required key with `NVIDIA_API_KEY` as the optional-fallback key. Added a 2-line note explaining why the default flipped.
+
+The env-var override (`LLM_PROVIDER=nvidia` if explicitly set) is preserved — anyone wanting to switch back to NVIDIA can do so.
+
+**No tuning changes needed**: `CLASSIFY_BATCH_SIZE=6`, `CLASSIFY_DEFAULT_CONCURRENCY=1`, `CLASSIFY_INTER_BATCH_DELAY_MS=500`, `CLUSTER_DEFAULT_CONCURRENCY=1`, `CLUSTER_LLM_FANOUT_CONCURRENCY=1` are all already in place and apply uniformly regardless of which provider's `chatJSON` is selected. These are the proven Groq-survivable settings from earlier sessions.
+
+**Verified**:
+- `npx tsc --noEmit` clean on `server/`.
+- `npx tsc -p tsconfig.json` clean on `server/` (Render's exact build command).
+- `npm run build` clean from project root (server `tsc` + client `tsc -b && vite build`).
+
+**Required for Render deploy** (user action):
+- Set `LLM_PROVIDER=groq` in Render's Environment Variables (already the code default now, but setting it explicitly makes the state visible in the dashboard).
+- Verify `GROQ_API_KEY` is set (should already be from earlier — verify in Render UI).
+- `NVIDIA_API_KEY` can stay set; harmless if `LLM_PROVIDER=groq` is the active value.
+- After deploy, trigger `GET /api/test-intelligence?url=https://www.youtube.com/watch?v=ahaLgJr3HcU&force=true` and confirm in Render logs:
+  - `[contentGaps] LLM_PROVIDER=groq`
+  - `intelligence: X gaps, Y question topics, Z emerging topics` where X > 0
+  - No `410 status code` warnings
+
+**Local dev**: user must restart `npm run dev` in their terminal for the new default to take effect (env var read at module-load time).
+
+**Skipped/cut for time**: refactoring the duplicated `(process.env.LLM_PROVIDER ?? 'groq').toLowerCase()` + ternary-select pattern across the 5 sites into a single shared helper. Future cleanup — not worth the scope expansion in a time-critical fix.
+
+**Phase 11 status: `[x]`** — Groq is now the production default for the remainder of the hackathon. Render deploy + verify-gaps-non-zero is the next step before demo recording.
+
+### 2026-09-04 01:00 UTC — Phase 12 [x]: Fixed — App.css was never imported from main.tsx
+
+**Symptom**: Live production Render showed plain unstyled fonts, no violet accent, no dark card styling — even after multiple rebuilds. Confirmed via hard refresh.
+
+**Diagnostic findings** (5 checks):
+1. `client/dist/index.html` referenced `/assets/index-DFk_NZ_X.css` correctly; file existed at that path (2,723 bytes).
+2. Built CSS file **contained the `:root` tokens** (violet `#8b5cf6`, Inter font-family, spacing/radius/shadow/type scale) — **but ZERO component selectors** (`.landing`, `.sidebar`, `.video-card`, `.score-num`, `.bar-row-fill`, `.theme-card`, `.webmcp-badge--active` all returned count=0).
+3. Source `client/index.html` had Google Fonts `<link>` tag present.
+4. Server static serving correctly pointed at `client/dist`; no stale paths or cache headers.
+5. Local prod-mode `GET /assets/index-DFk_NZ_X.css` returned 200 + 2,723 bytes of token-only CSS, confirming the prod build pipeline matched what was on disk.
+
+**Root cause**: `client/src/main.tsx` line 17 imported only `'./index.css'`. It **did NOT import `'./App.css'`**. Vite only bundles CSS that's reachable from the entry file. The 28 KB `App.css` source file (full of component selectors) was never making it into the production bundle.
+
+**History check**: This bug existed since Phase 1 scaffold — `main.tsx` was set up with only the `index.css` import. The original `App.css` (875 lines) was never imported either; the page always rendered with `index.css`'s `body { background: #0f1115; color: #e6e8eb }` + plain browser defaults. When Phase 8 rewrote `App.css` with the design system, the file got the new content but was still never imported — so the visual redesign shipped to disk but never reached the browser. We never noticed because we never tested the rebuilt `client/dist` in a browser; we relied on TS clean + build success as the signal, but build success only proves Vite compiled what was reachable, not that the CSS we'd expect to be present was actually present.
+
+**Fix (1 line)**: `client/src/main.tsx`, added `import './App.css';` on line 18 (after the existing `import './index.css';`).
+
+**Verified**:
+- `npm run build` clean. New CSS bundle: `index-BNUUmb_2.css` **25.65 KB / 4.95 KB gzipped** (was 2.72 KB / 1.18 KB). JS unchanged.
+- New `dist/index.html` references the new hashed CSS filename.
+- Built CSS now contains: `.landing{` ×1, `.sidebar{` ×2, `.video-card{` ×1, `.score-num{` ×2, `.bar-row-fill{` ×1, `.theme-card{` ×1, `.webmcp-badge--active{` ×1, `font-family:` ×7, `#8b5cf6` ×9.
+- Local prod-mode `GET /assets/index-BNUUmb_2.css` returns 200 + 25,650 bytes; all component selectors present.
+
+**For Render deploy**: just push the code change (one new line in `main.tsx`). No env var changes. Render's build will produce the same hashed CSS bundle as local.
+
+**Lesson for the project** (logged for future work): never trust "build success" as proof that a CSS file is being served. Always grep the built CSS for a couple of distinctive class selectors from each source CSS file before declaring a styling change complete. **The next round of UI work should always include a 5-second "grep the built CSS for `.landing{`" sanity check.**
+
+**Phase 12 status: `[x]`** — root cause identified, one-line fix shipped, build verified locally with component selectors confirmed in the bundle. Ready to push to Render.

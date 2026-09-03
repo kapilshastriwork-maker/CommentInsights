@@ -49,7 +49,7 @@ async function readJsonIfExists<T>(filePath: string): Promise<T | null> {
 router.get('/', async (req: Request, res: Response) => {
   const probeRaw = String(req.query.probe ?? '').toLowerCase();
   if (probeRaw === '1' || probeRaw === 'true' || probeRaw === 'yes') {
-    const provider = (process.env.LLM_PROVIDER ?? 'nvidia').toLowerCase();
+    const provider = (process.env.LLM_PROVIDER ?? 'groq').toLowerCase();
     const model = provider === 'groq' ? DEFAULT_GROQ_MODEL : DEFAULT_NVIDIA_MODEL;
     const chatFn = provider === 'groq' ? groqChatJSON : nvidiaChatJSON;
     const t0 = Date.now();
